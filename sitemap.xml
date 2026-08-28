@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://wevapekorea.co.kr/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-hero-pc-v4.webp</image:loc>
+      <image:title>버블몬 위베이프 GRAFFITI-Ⅲ 그래피티3 히어로</image:title>
+      <image:caption>버블몬·위베이프 신제품 전자담배 GRAFFITI-Ⅲ(그래피티3)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-hero-mobile-v3.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 모바일 히어로</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-hero-cutout-v2.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 제품 컷아웃</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-display.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 디스플레이</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-aurora-gold.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 오로라 골드</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-sapphire.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 사파이어</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-black.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 블랙</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-gold-rush.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 골드러시</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wevapekorea.co.kr/products/graffiti3-led-4color.webp</image:loc>
+      <image:title>GRAFFITI-Ⅲ 4색 LED</image:title>
+    </image:image>
+
+    <video:video>
+      <video:thumbnail_loc>https://wevapekorea.co.kr/products/graffiti3-led-4color-still.jpg</video:thumbnail_loc>
+      <video:title>버블몬 위베이프 GRAFFITI-Ⅲ 4색 LED 컬러</video:title>
+      <video:description>버블몬·위베이프 신제품 GRAFFITI-Ⅲ(그래피티3)의 4색 LED 컬러 소개 영상</video:description>
+      <video:content_loc>https://wevapekorea.co.kr/videos/graffiti3-three-colors.mp4</video:content_loc>
+      <video:publication_date>2026-08-28T00:00:00+09:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://wevapekorea.co.kr/products/performance-mesh-hpod-v5.jpg</video:thumbnail_loc>
+      <video:title>GRAFFITI-Ⅲ 코어 배리어 팟(HPOD)</video:title>
+      <video:description>버블몬·위베이프 GRAFFITI-Ⅲ 코어 배리어 팟(HPOD) 소개 영상</video:description>
+      <video:content_loc>https://wevapekorea.co.kr/videos/core-barrier-pod.mp4</video:content_loc>
+      <video:publication_date>2026-08-28T00:00:00+09:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+</urlset>

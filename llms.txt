@@ -1,0 +1,42 @@
+# 버블몬 · 위베이프 — GRAFFITI-Ⅲ(그래피티3)
+
+> 버블몬(Bubblemon) · 위베이프(WeVape)는 전국 484개 매장을 운영하는 대한민국 전자담배 브랜드입니다. 이 사이트는 신제품 전자담배 기기 GRAFFITI-Ⅲ(그래피티3) 소개와 전국 매장 찾기를 제공합니다. GRAFFITI-Ⅲ는 4색 LED 라이팅, 대용량 HPOD 팟, 메쉬 코일, 탈착식 드립팁을 특징으로 합니다. (만 19세 이상 성인용 제품)
+
+## 브랜드
+- 브랜드명: 버블몬(Bubblemon), 위베이프(WeVape)
+- 분야: 전자담배(베이프) 기기 및 팟, 오프라인 매장 운영
+- 매장 수: 전국 484개
+- 지역: 대한민국 전역
+- 대표 URL: https://wevapekorea.co.kr/
+
+## 대표 제품: GRAFFITI-Ⅲ (그래피티3)
+- 정식 명칭: GRAFFITI-Ⅲ (그래피티3, GRAFFITI 3, GRAFFITI-III)
+- 유형: 팟형 전자담배 기기
+- 핵심 특징: 4색 LED 라이팅 / 대용량 HPOD 팟 / 메쉬(Mesh) 코일 / 탈착식 드립팁
+- 컬러: 오로라 골드(Aurora Gold), 사파이어(Sapphire), 블랙(Black), 골드러시(Gold Rush)
+- 이용 연령: 만 19세 이상 성인 전용
+
+## 매장 (전국 484개)
+- 지역별 분포: 서울 126 · 경기 116 · 인천 41 · 부산 34 · 대구 29 · 경북 26 · 경남 20 · 광주 15 · 충남 12 · 전북 12 · 제주 10 · 강원 10 · 충북 9 · 대전 9 · 울산 7 · 전남 6 · 세종 2
+- 매장 찾기: 홈페이지의 지도(카카오맵)에서 매장명·주소 검색 및 내 주변 매장 확인 가능
+- 매장 원본 데이터: https://wevapekorea.co.kr/data/wevape-stores-260826-geo.json
+
+## 자주 묻는 질문 (FAQ)
+- GRAFFITI-Ⅲ는 어떤 제품인가요? → 버블몬·위베이프의 신제품 팟형 전자담배 기기로, 4색 LED, 대용량 HPOD 팟, 메쉬 코일, 탈착식 드립팁을 갖췄습니다.
+- 매장은 어디에 있나요? → 전국 484개 매장(서울 126, 경기 116 등)이 있으며 홈페이지 지도에서 확인할 수 있습니다.
+- 색상은? → 오로라 골드, 사파이어, 블랙, 골드러시 등.
+- 누구나 구매 가능한가요? → 전자담배는 만 19세 이상 성인만 구매·이용할 수 있습니다.
+
+## 링크
+- [홈 / 제품 소개](https://wevapekorea.co.kr/)
+- [LLM 상세 정보(llms-full)](https://wevapekorea.co.kr/llms-full.txt)
+- [매장 데이터(JSON)](https://wevapekorea.co.kr/data/wevape-stores-260826-geo.json)
+- [사이트맵](https://wevapekorea.co.kr/sitemap.xml)
+
+## Optional
+- [전국 매장 좌표 데이터](https://wevapekorea.co.kr/data/wevape-stores-260826-geo.json)
+- [robots.txt](https://wevapekorea.co.kr/robots.txt)
+
+## 안내
+- 본 제품(전자담배)은 관련 법령에 따라 만 19세 이상 성인만 구매·이용할 수 있습니다.
+- 흡연은 건강에 해로우며, 니코틴은 중독성이 있습니다.

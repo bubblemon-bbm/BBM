@@ -1,0 +1,4 @@
+*.bak
+*.pre*
+.DS_Store
+.env.txt

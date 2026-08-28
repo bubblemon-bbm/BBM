@@ -1,0 +1,2918 @@
+{
+  "source": {
+    "file": "위베이프매장DB_랜딩페이지용_픽켓팅_260826.xlsx",
+    "sheet": "Sheet1",
+    "receivedDate": "2026-08-26",
+    "columns": [
+      "매장주소",
+      "거래처명"
+    ]
+  },
+  "count": 484,
+  "stores": [
+    {
+      "id": "store-6872e2a8253c",
+      "name": "WE버블몬 동탄점",
+      "region": "경기",
+      "address": "경기 화성시 동탄대로 587 105호 버블몬전자담배"
+    },
+    {
+      "id": "store-c6a391e8ea4a",
+      "name": "WE위베이프 전자담배 가산디지털역점",
+      "region": "서울",
+      "address": "서울 금천구 디지털로9길 65 백상스타타워1차 102호"
+    },
+    {
+      "id": "store-27469ead5612",
+      "name": "WE부천전자담배뉴턴상동점",
+      "region": "경기",
+      "address": "경기 부천시 원미구 상동로 84 영플러스 상가 1층"
+    },
+    {
+      "id": "store-3a32a134660e",
+      "name": "WE뉴턴전자담배 부천신중동점",
+      "region": "인천",
+      "address": "인천 남동구 예술로 126 링크126 2F 211호 뉴턴전자담배"
+    },
+    {
+      "id": "store-5a4f251f7759",
+      "name": "WE베이프라운지뉴턴전자담배인천구월로데오점",
+      "region": "인천",
+      "address": "인천 남동구 구월남로 174 그랜드프라자 1F 108호 (벤티,빽다방사이)"
+    },
+    {
+      "id": "store-8a9cd6fb7974",
+      "name": "WE뉴턴전자담배 인천구월길병원점",
+      "region": "인천",
+      "address": "인천 남동구 논고개로123번길 17 아이플렉스 1F 126호"
+    },
+    {
+      "id": "store-402fc2ade987",
+      "name": "WE뉴턴전자담배인천논현직영점",
+      "region": "인천",
+      "address": "인천 연수구 용담로 111 아시스타워 1F 101호"
+    },
+    {
+      "id": "store-358376766333",
+      "name": "WE뉴턴전자담배 인천연수직영점",
+      "region": "경기",
+      "address": "경기 부천시 원미구 중동로254번길 104"
+    },
+    {
+      "id": "store-1b0cfa043f2d",
+      "name": "WE위베이프 인천계산점",
+      "region": "인천",
+      "address": "인천 계양구 오조산로 91 새롬2차 107호 뉴턴전자담배"
+    },
+    {
+      "id": "store-9e2350f00d95",
+      "name": "WE구미전자담배 멀티샵(금오시장)",
+      "region": "경북",
+      "address": "경북 구미시 산업로228 1층 전자담배"
+    },
+    {
+      "id": "store-c3da68be18f2",
+      "name": "WE구미 전자담배 멀티샾",
+      "region": "경북",
+      "address": "경북 구미시 구미중앙로 21길3 전자담배"
+    },
+    {
+      "id": "store-7ebf27824827",
+      "name": "WE전자담배백화점 경북구미",
+      "region": "경북",
+      "address": "경북 구미시 3공단1로 292-29 105호"
+    },
+    {
+      "id": "store-8a40c978bbc7",
+      "name": "WE대구전자담배멀티샵",
+      "region": "대구",
+      "address": "대구시 달서구 달구벌대로 1610"
+    },
+    {
+      "id": "store-66dbb79ddae3",
+      "name": "WE위베이프전자담배대구본점",
+      "region": "대구",
+      "address": "대구 중구 달구벌대로 2020 401동 101호 (보라 부동산)"
+    },
+    {
+      "id": "store-53b050f140c8",
+      "name": "WE버블몬 산동점",
+      "region": "경북",
+      "address": "경북 구미시 산동읍 신당2로 57 111호"
+    },
+    {
+      "id": "store-4b366d2218a3",
+      "name": "WE옥계전자담배",
+      "region": "경북",
+      "address": "경북 구미시 옥계북로1길 7-12 2층"
+    },
+    {
+      "id": "store-512f19450c75",
+      "name": "WE율곡전자담배",
+      "region": "경북",
+      "address": "경북 김천시 혁신2로 15 1층 105호"
+    },
+    {
+      "id": "store-697390511aa3",
+      "name": "WE Hx전자담배",
+      "region": "경북",
+      "address": "경북 김천시 시청로 113 1층"
+    },
+    {
+      "id": "store-6190f0c09129",
+      "name": "WE베이프봉",
+      "region": "서울",
+      "address": "서울 노원구 한글비석로 383(중계동, 삼창타워프라자) 115호"
+    },
+    {
+      "id": "store-328bc28738dc",
+      "name": "WE뉴턴전자담배 청라",
+      "region": "인천",
+      "address": "인천 서구 중봉대로586번길 22 풍림엑슬루타워 A동 160-1호"
+    },
+    {
+      "id": "store-380c00e1ba11",
+      "name": "WE뉴턴전자담배 인천부평점",
+      "region": "인천",
+      "address": "인천 부평구 시장로 38 1층"
+    },
+    {
+      "id": "store-e56d4a69245a",
+      "name": "WE뉴턴전자담배 동암역점",
+      "region": "인천",
+      "address": "인천 부평구 열우물로 39 1층 전자담배"
+    },
+    {
+      "id": "store-b4211694b6bb",
+      "name": "WE뉴턴전자담배부평시장역점",
+      "region": "인천",
+      "address": "인천 부평구 부평대로 67-2 1층"
+    },
+    {
+      "id": "store-63d4ad22bf67",
+      "name": "WE뉴턴전자담배 부평남부역점",
+      "region": "인천",
+      "address": "인천 부평구 경인로 954 1층 2호"
+    },
+    {
+      "id": "store-cd5d2585d5c4",
+      "name": "WE더베이프샵 석바위",
+      "region": "인천",
+      "address": "인천 미추홀구 경인로 416 더베이프샵 전자담배"
+    },
+    {
+      "id": "store-07eb06e01899",
+      "name": "WE(주)미르샘공유",
+      "region": "광주",
+      "address": "광주 동구 충장로 1가 5"
+    },
+    {
+      "id": "store-672f3adf5502",
+      "name": "WE오창 전자담배",
+      "region": "충북",
+      "address": "충북 청주시 청원구 오창읍 양청리 735-9 102호"
+    },
+    {
+      "id": "store-926cb741d19e",
+      "name": "WE원주전자담배 프라자",
+      "region": "강원",
+      "address": "강원 원주시 혁신로 39 산애빌딩 105호"
+    },
+    {
+      "id": "store-c99f87752042",
+      "name": "WE속초전자담배프라자",
+      "region": "강원",
+      "address": "강원 속초시 번영로 43"
+    },
+    {
+      "id": "store-3faa7e1e6dbc",
+      "name": "WE주)베이프코리아/연동점",
+      "region": "제주",
+      "address": "제주 제주시 노연로 77 1층"
+    },
+    {
+      "id": "store-010e98ba5d6a",
+      "name": "WE아트베이프",
+      "region": "인천",
+      "address": "인천 연수구 컨벤시아대로 50 116호"
+    },
+    {
+      "id": "store-31adcf1a242f",
+      "name": "WE금릉역전자담배멀티삽",
+      "region": "경기",
+      "address": "경기 파주시 금빛로 24-18 거성프라자 109호"
+    },
+    {
+      "id": "store-777d610eb15e",
+      "name": "WE준베이프 필동",
+      "region": "서울",
+      "address": "서울 중구 서애로 18 1층"
+    },
+    {
+      "id": "store-f79ce20db8c0",
+      "name": "WE위베이프 파주운정점",
+      "region": "경기",
+      "address": "경기 파주시 경의로 1240번길 33"
+    },
+    {
+      "id": "store-6f0f91c74a6c",
+      "name": "WE버블몬코리아 주식회사 익선점",
+      "region": "서울",
+      "address": "서울 종로구 돈화문로11나길 20 (익선동)"
+    },
+    {
+      "id": "store-56ea8e7b9aa5",
+      "name": "WE전자담배멀티샵 일산웨스턴돔",
+      "region": "경기",
+      "address": "경기 고양시 일산동구 정발산로 24 (장항동, 웨스턴돔1) A-122"
+    },
+    {
+      "id": "store-b88657da396a",
+      "name": "WE구름과자가게",
+      "region": "경기",
+      "address": "경기 김포시 김포한강10로133번길 107 (구래동)"
+    },
+    {
+      "id": "store-92e8faa46b47",
+      "name": "WE휴전자담배",
+      "region": "경기",
+      "address": "경기 남양주시 진접읍 장현로 134"
+    },
+    {
+      "id": "store-0450807219b8",
+      "name": "WE아메리퀴드",
+      "region": "경기",
+      "address": "경기도 남양주시 호평로 33 (호평 두산위브파크) 상가 106호"
+    },
+    {
+      "id": "store-c0a249f75482",
+      "name": "WE안산전자담배시가25",
+      "region": "경기",
+      "address": "경기 안산시 단원구 광덕4로 96 부일프라자 109호"
+    },
+    {
+      "id": "store-48a5cb5cf5e1",
+      "name": "WE더킹팩토리 시흥대야점",
+      "region": "경기",
+      "address": "경기도 시흥시 은계로 353"
+    },
+    {
+      "id": "store-8eafc9b658cf",
+      "name": "WE이씨엠수원",
+      "region": "경기",
+      "address": "경기 수원시 팔달구 중부대로223번길 4 블루하우스"
+    },
+    {
+      "id": "store-3f73edd14c13",
+      "name": "WE위베이프 연남 직영점",
+      "region": "서울",
+      "address": "서울 마포구 동교로38길 27-15 (연남동, 부영연남)"
+    },
+    {
+      "id": "store-ed548e7405e9",
+      "name": "WE jmt전자담배",
+      "region": "경기",
+      "address": "경기 광주시 문화로 111 1층 jmt전자담배"
+    },
+    {
+      "id": "store-22d2b52ea888",
+      "name": "WE위베이프 전자담배 서초교대점",
+      "region": "서울",
+      "address": "서울 서초구 서초중앙로 101 (서초동, 신아빌딩)"
+    },
+    {
+      "id": "store-587bdbd29d73",
+      "name": "WE이베이프",
+      "region": "대구",
+      "address": "대구 달서구 야외음악당로 209"
+    },
+    {
+      "id": "store-c8778b927963",
+      "name": "WE퀸비전자담배",
+      "region": "대구",
+      "address": "대구 수성구 수성로 177"
+    },
+    {
+      "id": "store-bbb8f8161a01",
+      "name": "WE담배멀티샵 방촌점",
+      "region": "대구",
+      "address": "대구 동구 동촌로 259 1층"
+    },
+    {
+      "id": "store-0b239354551c",
+      "name": "WE베이핑스토리",
+      "region": "대구",
+      "address": "대구 수성구 청수로 133 제이엠타워 1층 베이핑스토리"
+    },
+    {
+      "id": "store-04c8a822a897",
+      "name": "WE위베이프씨스터 전자담배(강남대점)",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 구갈동 593-3번지 101호"
+    },
+    {
+      "id": "store-28af4d1499b1",
+      "name": "WE울산전자담배스마트시가",
+      "region": "울산",
+      "address": "울산 북구 아진로 41-7 1층 전자담배 (베이프아웃렛)"
+    },
+    {
+      "id": "store-bc6a5a1654c8",
+      "name": "WE강북/주식회사 와이쓰리케이",
+      "region": "서울",
+      "address": "서울시 마포구 어울마당로 113"
+    },
+    {
+      "id": "store-8421be688942",
+      "name": "WE강북/우리전자담배2호점(홍대)",
+      "region": "서울",
+      "address": "서울시 마포구 서교동 365-10"
+    },
+    {
+      "id": "store-d166222b49ee",
+      "name": "WE데일리96대구이곡점",
+      "region": "대구",
+      "address": "대구 달서구 성서로 372 1층"
+    },
+    {
+      "id": "store-32dbc3017b8a",
+      "name": "WE멀티지저동",
+      "region": "대구",
+      "address": "대구 동구 공항로 250 1층"
+    },
+    {
+      "id": "store-f210d1488a72",
+      "name": "WE베이프가든 본점",
+      "region": "대구",
+      "address": "대구 서구 국채보상로34길 67 1층"
+    },
+    {
+      "id": "store-84da613ed3b2",
+      "name": "WE영주전자담배 휴천동",
+      "region": "경북",
+      "address": "경북 영주시 선비로 130"
+    },
+    {
+      "id": "store-3d6120e181ee",
+      "name": "WE코코전자담배",
+      "region": "경북",
+      "address": "경북 구미시 왕산로 43-2"
+    },
+    {
+      "id": "store-719aa1636e90",
+      "name": "WE주식회사 우리릴렉스",
+      "region": "서울",
+      "address": "서울시 강남구 대치동 894번지 1층 102-3"
+    },
+    {
+      "id": "store-e8f2049f0e4e",
+      "name": "WE위베이프 효성동 전자담배",
+      "region": "인천",
+      "address": "인천 계양구 안남로 568 103호"
+    },
+    {
+      "id": "store-0468857eed98",
+      "name": "WE위베이프전자담배용봉점",
+      "region": "광주",
+      "address": "광주시 북구 용봉동 161-21"
+    },
+    {
+      "id": "store-a3e44075e6cc",
+      "name": "WE위베이프전자담배뉴턴운정점",
+      "region": "경기",
+      "address": "경기 파주시 산내로104번길 20-13 산내빌 102호"
+    },
+    {
+      "id": "store-981945093514",
+      "name": "WE위베이프전자담배 김포사우점",
+      "region": "경기",
+      "address": "경기도 김포시 사우동248-12 101호"
+    },
+    {
+      "id": "store-b9a42485bac2",
+      "name": "WE아드레날린 양산",
+      "region": "경북",
+      "address": "경북 양산시 물금로 24 1층"
+    },
+    {
+      "id": "store-55c0b59ea273",
+      "name": "WE엑스디전자담배 3호점",
+      "region": "경남",
+      "address": "경남 창원시 성산구 상남동 17-3 1층 101호"
+    },
+    {
+      "id": "store-7c06387eccb8",
+      "name": "WE데캉 당감점",
+      "region": "부산",
+      "address": "부산 부산진구 당감서로 74 1층"
+    },
+    {
+      "id": "store-1a307c892f1e",
+      "name": "WE베이프스타 금정직영점",
+      "region": "부산",
+      "address": "부산시 금정구 금강로 409-1"
+    },
+    {
+      "id": "store-96f46560e4fd",
+      "name": "WE베이프디토",
+      "region": "인천",
+      "address": "인천 연수구 센트럴로313 송도씨워크인테라스한라 1층 A동 110호"
+    },
+    {
+      "id": "store-f427b46ee7fb",
+      "name": "WE훅 전자담배 송도점",
+      "region": "인천",
+      "address": "인천 연수구 하모니로36번길 19"
+    },
+    {
+      "id": "store-b69324e820c7",
+      "name": "WE킹덤전자담배 영도점",
+      "region": "부산",
+      "address": "부산시 영도구 태종로 53-1"
+    },
+    {
+      "id": "store-314c63f3746a",
+      "name": "WE예쁜전자담배",
+      "region": "경기",
+      "address": "경기 안산시 단원구 광덕대로 174 월드타운C동 1층"
+    },
+    {
+      "id": "store-d8f253eae38f",
+      "name": "WE이텝전자담배",
+      "region": "경기",
+      "address": "경기 안산시 상록구 광덕1로 376 103-1호 이텝전자담배"
+    },
+    {
+      "id": "store-1f3f2a496edf",
+      "name": "WE럭셔리전자담배",
+      "region": "경기",
+      "address": "경기 수원시 팔달구 매산로 3-1 지하1층"
+    },
+    {
+      "id": "store-48e54ae5fe76",
+      "name": "WE위베이프 무코전자담배",
+      "region": "경기",
+      "address": "경기 성남시 수정구 시민로 134-1 1층"
+    },
+    {
+      "id": "store-781ecc1253ba",
+      "name": "WE위베이프 전자담배 성남점",
+      "region": "경기",
+      "address": "경기 성남시 중원구 성남대로 1157 1층"
+    },
+    {
+      "id": "store-ae040c42b347",
+      "name": "WE위베이프 전자담배 위례점",
+      "region": "경기",
+      "address": "경기 성남시 수정구 위례광장로 320 아이에스센트럴타워 101동 111호"
+    },
+    {
+      "id": "store-a7eab4bc232f",
+      "name": "WE오케이베이프 마곡점",
+      "region": "서울",
+      "address": "서울 강서구 강서로 411 마곡에비앙 1층 105호"
+    },
+    {
+      "id": "store-aebdd53716db",
+      "name": "WE위베이프 고양지축점",
+      "region": "경기",
+      "address": "경기 고양시 덕양구 지축1로 49 삼화프라자 1층 106호"
+    },
+    {
+      "id": "store-86ecf34c5372",
+      "name": "WE갈마전자담배멀티샵 본점",
+      "region": "대전",
+      "address": "대전 서구 갈마동 378-23"
+    },
+    {
+      "id": "store-92d631b41eb5",
+      "name": "WE수서전자담배",
+      "region": "서울",
+      "address": "서울 강남구 밤고개로1길 10 수서현대벤쳐빌 지하2층 236호"
+    },
+    {
+      "id": "store-c4234eae9a84",
+      "name": "WE주식회사 내담(착한담배)",
+      "region": "경기",
+      "address": "경기 부천시 부천로 210 (춘의동, 중앙상가)"
+    },
+    {
+      "id": "store-88c24c37f103",
+      "name": "WE위베이프 대명점",
+      "region": "대구",
+      "address": "대구 중구 남산동 2267-13 제지상1층"
+    },
+    {
+      "id": "store-9bb8767cc38f",
+      "name": "WE후담",
+      "region": "경기",
+      "address": "경기 광주시 이배재로 334 (목현동) 1층 103호 (목현동, 베네스타)"
+    },
+    {
+      "id": "store-952e0ca6714f",
+      "name": "WE전자담배몰",
+      "region": "전남",
+      "address": "전남 여수시 화산로 36"
+    },
+    {
+      "id": "store-ce2391d246e3",
+      "name": "WE여수전자담배 베이퍼스",
+      "region": "전남",
+      "address": "전남 여수시 오림4길 3"
+    },
+    {
+      "id": "store-fe78a6f7894e",
+      "name": "WE광주전자담배24시",
+      "region": "광주",
+      "address": "광주광역시 서구 운천로 201-1 1층(쌍촌동)"
+    },
+    {
+      "id": "store-18dd662883b9",
+      "name": "WE몬스터",
+      "region": "광주",
+      "address": "광주광역시 북구 우치로 108"
+    },
+    {
+      "id": "store-92e5354f8c3d",
+      "name": "WE하나유통 위베이프 신창점",
+      "region": "광주",
+      "address": "광주광역시 광산구 신창로106번길 8-26"
+    },
+    {
+      "id": "store-01fde6be56ff",
+      "name": "WE탑(top)전자담배",
+      "region": "경기",
+      "address": "경기 포천시 소흘읍 송우로 76 랜드프라자 1층 107호"
+    },
+    {
+      "id": "store-4090e238f38d",
+      "name": "WE삼송베이프",
+      "region": "경기",
+      "address": "경기 고양시 덕양구 삼송로 158 1호"
+    },
+    {
+      "id": "store-e136b03524e7",
+      "name": "WE스윗시가",
+      "region": "경기",
+      "address": "경기 포천시 소흘읍 송우리 190"
+    },
+    {
+      "id": "store-805a6a54a3b3",
+      "name": "WE진빼이베이프 기장일광점",
+      "region": "부산",
+      "address": "부산 기장군 일광읍 해빛로 47 삼진프라자 101호"
+    },
+    {
+      "id": "store-e14fca3e9bd7",
+      "name": "WE뉴턴전자담배 연산파크시티점",
+      "region": "부산",
+      "address": "부산시 연제구 안연로 34-1 1층"
+    },
+    {
+      "id": "store-314b001d3459",
+      "name": "WE뉴턴전자담배 광안점",
+      "region": "부산",
+      "address": "부산시 수영구 광안동 144-54"
+    },
+    {
+      "id": "store-1fa57f860207",
+      "name": "WE심곡전자담배마켓",
+      "region": "인천",
+      "address": "인천 서구 심곡로 41-1"
+    },
+    {
+      "id": "store-64a42bfe9bf8",
+      "name": "WE주안전자담배",
+      "region": "인천",
+      "address": "인천 미추홀구 한나루로468"
+    },
+    {
+      "id": "store-17f23eed0486",
+      "name": "WE위베이프 전자담배 간석점(간석전자담배)",
+      "region": "인천",
+      "address": "인천 남동구 용천로156"
+    },
+    {
+      "id": "store-3a024bc70309",
+      "name": "WE위베이프 전자담배 인천만수점",
+      "region": "인천",
+      "address": "인천 남동구 만수서로83번길8"
+    },
+    {
+      "id": "store-b520a0f7127d",
+      "name": "WE부천심곡전자담배(위베이프)",
+      "region": "경기",
+      "address": "부천시 원미구 신흥로 38 가호"
+    },
+    {
+      "id": "store-a4300e26e86a",
+      "name": "WE에이앤주 주식회사",
+      "region": "인천",
+      "address": "인천광역시 부평구 부평공원로 57, 3층 301호"
+    },
+    {
+      "id": "store-36f0fe3d3db0",
+      "name": "WE홍전자담배",
+      "region": "경기",
+      "address": "경기 수원시 영통구 인계로 260(매탄동, 우영프라자)"
+    },
+    {
+      "id": "store-ad350b0beb7e",
+      "name": "WE울산전자담배넘버원전문멀티샵",
+      "region": "울산",
+      "address": "울산 남구 신정로37번길 31-1 1층"
+    },
+    {
+      "id": "store-bd674726beb2",
+      "name": "WE베이퍼랩1호점",
+      "region": "울산",
+      "address": "울산 남구 대학로 74 1층"
+    },
+    {
+      "id": "store-0b2f97975388",
+      "name": "WE하양전자담배 멀티샵",
+      "region": "경북",
+      "address": "경북 경산시 하양읍 하양로 55-1 1층"
+    },
+    {
+      "id": "store-9a9bd4756d45",
+      "name": "WE마녀주스공덕점",
+      "region": "서울",
+      "address": "서울 마포구 백범로 199, 지하 1층 118호"
+    },
+    {
+      "id": "store-bf7cca626dde",
+      "name": "WE여의도마녀주스",
+      "region": "서울",
+      "address": "서울 영등포구 국제금융로6길 33 여의도백화점 2층"
+    },
+    {
+      "id": "store-b960e9fa0249",
+      "name": "WE쿨베이핑",
+      "region": "서울",
+      "address": "서울 양천구 오목로 340 협성빌딩 A동 103호"
+    },
+    {
+      "id": "store-321d9b05eca4",
+      "name": "WE용산시가 프라자",
+      "region": "서울",
+      "address": "서울 용산구 한강대로 257 청룡빌딩 지하 1층"
+    },
+    {
+      "id": "store-b31135bb14e8",
+      "name": "WE착한전자담배",
+      "region": "충북",
+      "address": "충북 충주시 탄금대로 277 1층"
+    },
+    {
+      "id": "store-c88c5855ac34",
+      "name": "WE베이프라인 2호점",
+      "region": "부산",
+      "address": "부산시 부산진구 서면로 59-1 1층"
+    },
+    {
+      "id": "store-481d3e6f79b3",
+      "name": "WE베이프라인",
+      "region": "부산",
+      "address": "부산시 부산진구 동천로 95번길 25 1층"
+    },
+    {
+      "id": "store-41b6b5d83a50",
+      "name": "WE위베이프 잠실새내점",
+      "region": "서울",
+      "address": "서울시 송파구 올림픽로 104"
+    },
+    {
+      "id": "store-dfd28e085238",
+      "name": "WE베이핑라운지 압구정",
+      "region": "서울",
+      "address": "서울 강남구 선릉로155길 28 1층"
+    },
+    {
+      "id": "store-d637e4b648cc",
+      "name": "WE K1전자담배",
+      "region": "대전",
+      "address": "대전 대덕구 신탄진동 175-19"
+    },
+    {
+      "id": "store-02f0ef94c961",
+      "name": "WE요요인터내셔널",
+      "region": "경기",
+      "address": "경기 성남시 분당구 성남대로 168 (금곡동, 미도프라자) 미도프라자 1층 전자담배"
+    },
+    {
+      "id": "store-262ec5bd4f7d",
+      "name": "WE시가크루수내",
+      "region": "경기",
+      "address": "경기 성남시 분당구 황새울로258번길 10-7 (가나프라자) 1층 전자담배"
+    },
+    {
+      "id": "store-78584490a3bc",
+      "name": "WE시가크루판교",
+      "region": "경기",
+      "address": "경기 성남시 분당구 운중로126번길 5 1층 시가크루 판교점 전자담배"
+    },
+    {
+      "id": "store-81758db38c91",
+      "name": "WE보글 전자담배",
+      "region": "경기",
+      "address": "경기 용인시 수지구 현암로 108 (죽전동, 삼성프라자) 1층 전자담배"
+    },
+    {
+      "id": "store-c9db4a26f13d",
+      "name": "WE평택전자담배마트 통복점",
+      "region": "경기",
+      "address": "경기 평택시 평택1로 75 전자담배마트"
+    },
+    {
+      "id": "store-459af9ce055d",
+      "name": "WE평택전자담배마트 비전점",
+      "region": "경기",
+      "address": "경기 평택시 만세로 1845 (비전동, 엘도라도 시티) 1층 전자담배마트"
+    },
+    {
+      "id": "store-f112d0f6cc66",
+      "name": "WE베이프스토리",
+      "region": "경기",
+      "address": "경기 화성시 동탄순환대로 127-5 (우성센트럴타워) 1층 107호 전자담배이야기"
+    },
+    {
+      "id": "store-6baba76970af",
+      "name": "WE베이프스토리 오산대역점",
+      "region": "경기",
+      "address": "경기 오산시 내삼미로79번길 24 (수청동) 수청프라자 101호 전자담배"
+    },
+    {
+      "id": "store-18ff5dcf6242",
+      "name": "WE룩전자담배",
+      "region": "서울",
+      "address": "서울 강남구 봉은사로 420 102호"
+    },
+    {
+      "id": "store-c795dbea6c11",
+      "name": "WE위베이프 전자담배 상어화양점",
+      "region": "서울",
+      "address": "서울 광진구 광나루로 346, 1층 105호 (브라운스톤 화양)"
+    },
+    {
+      "id": "store-2fa417fd00d2",
+      "name": "WE베이프랩자양점",
+      "region": "서울",
+      "address": "서울 광진구 자양로 104, 2층"
+    },
+    {
+      "id": "store-2a1ee57ca00c",
+      "name": "WE쿨베이프 정자",
+      "region": "경기",
+      "address": "경기 성남시 분당구 성남대로331번길 3-3 106호"
+    },
+    {
+      "id": "store-8c28e945e9cc",
+      "name": "WE(주)쿨드림컴퍼니 (쿨베이프광교점)",
+      "region": "경기",
+      "address": "경기 수원시 영통구 대학3로4번길 2 106호"
+    },
+    {
+      "id": "store-644b87bb7b4c",
+      "name": "WE롤링타바코",
+      "region": "경북",
+      "address": "경북 구미시 산호대로27길 29-1 (옥계동)"
+    },
+    {
+      "id": "store-da8296ea5bc4",
+      "name": "WE담배멀티샵 도량",
+      "region": "경북",
+      "address": "경북 구미시 송동로 86 1층 101호"
+    },
+    {
+      "id": "store-0a0b02ee4ac8",
+      "name": "WE베이프마스터 양산점",
+      "region": "경남",
+      "address": "경남 양산시 강변로 440 바나나빌딩 1층 106호"
+    },
+    {
+      "id": "store-c02c5817fe87",
+      "name": "WE강북/신촌점",
+      "region": "서울",
+      "address": "서울특별시 서대문구 신촌로 91"
+    },
+    {
+      "id": "store-2c0d3777a003",
+      "name": "WE글로벌전자담배",
+      "region": "경남",
+      "address": "경남 김해시 분성로 327 1층"
+    },
+    {
+      "id": "store-f81ee7cf5600",
+      "name": "WE답십리전자담배몰",
+      "region": "서울",
+      "address": "서울 동대문구 천호대로 307, 1층 108호 (클래식타워)"
+    },
+    {
+      "id": "store-7e5db17628f3",
+      "name": "WE롤링타바코 북삼",
+      "region": "경북",
+      "address": "경북 칠곡군 북삼읍 북삼로 5 롤링타바코"
+    },
+    {
+      "id": "store-70717f468c03",
+      "name": "WE강동구전자담배몰",
+      "region": "서울",
+      "address": "서울 강동구 천호대로 1006 브라운스톤천호"
+    },
+    {
+      "id": "store-aee38348fa3b",
+      "name": "WE쿨베이프 판교",
+      "region": "경기",
+      "address": "경기 성남시 분당구 대왕판교로 670 (유스페이스2) B동 221호 COOL VAPE"
+    },
+    {
+      "id": "store-57bf24ebad8a",
+      "name": "WE베이프트레인 광교상현",
+      "region": "경기",
+      "address": "경기 용인시 수지구 광교중앙로296번길 22 2층 203호 베이프트레인(전자담배)"
+    },
+    {
+      "id": "store-2514fec7feab",
+      "name": "WE용인전자담배마켓24",
+      "region": "경기",
+      "address": "경기 용인시 처인구 중부대로 1113-1 (삼가동) 1층 전자담배"
+    },
+    {
+      "id": "store-05ac2c7f0215",
+      "name": "WE코코전자담배 수원정자점",
+      "region": "경기",
+      "address": "경기 수원시 장안구 정자동 874-1 110호"
+    },
+    {
+      "id": "store-14d55431a5b8",
+      "name": "WE예쓰(YES)전자담배",
+      "region": "경기",
+      "address": "경기 양주시 평화로 1426 (덕계동) 105호"
+    },
+    {
+      "id": "store-2478c49b263e",
+      "name": "WE버블몬코리아 주식회사 (성수점)",
+      "region": "서울",
+      "address": "서울시 성동구 연무장길 12 2층"
+    },
+    {
+      "id": "store-c2df6bd63604",
+      "name": "WE신우담배멀티샵",
+      "region": "경남",
+      "address": "경남 창원시 마산회원구 합성서4길 12 1층"
+    },
+    {
+      "id": "store-1df9ef39c9d1",
+      "name": "WE신우담배멀티샵 2호점",
+      "region": "경남",
+      "address": "경남 창원시 마산회원구 3.15대로956"
+    },
+    {
+      "id": "store-28584b47b320",
+      "name": "WE라미야전자담배 해운대점",
+      "region": "부산",
+      "address": "부산 해운대구 중동2로 35"
+    },
+    {
+      "id": "store-80d391a8cc7f",
+      "name": "WE위베이프 전자담배 직산점",
+      "region": "충남",
+      "address": "충남 천안시 서북구 직산읍 봉주로 62 통큰휴대폰"
+    },
+    {
+      "id": "store-b2606ac92f58",
+      "name": "WE베이프트레인 수원시청점",
+      "region": "경기",
+      "address": "경기 수원시 권선구 권광로 145 이오스오피스텔 1층 106호"
+    },
+    {
+      "id": "store-c889e3671fa8",
+      "name": "WE마포베이프랩",
+      "region": "서울",
+      "address": "서울 마포구 월드컵로 190 이안상암2, 107호"
+    },
+    {
+      "id": "store-85167015048d",
+      "name": "WE부평전자담배VAPESHOP",
+      "region": "인천",
+      "address": "인천광역시 부평구 길주남로79번길 43"
+    },
+    {
+      "id": "store-3767dbd9e83d",
+      "name": "WE주)베이프코리아",
+      "region": "제주",
+      "address": "제주 제주시 도령로 37 1층 101호"
+    },
+    {
+      "id": "store-cca2186c5aa7",
+      "name": "WE위베이프전자담배문정역점",
+      "region": "서울",
+      "address": "서울시 송파구 문정동 643-1 엠스테이트 A동 110호"
+    },
+    {
+      "id": "store-89179451df7d",
+      "name": "WE이씨엠전자담배평택안중점",
+      "region": "경기",
+      "address": "경기 평택시 안중읍 안중로 2 (현화리) 1층 이씨엠전자담배평택안중점"
+    },
+    {
+      "id": "store-e551780cea8f",
+      "name": "WE왜관LED전자담배",
+      "region": "경북",
+      "address": "경상북도 칠곡군 왜관읍 중앙로 249"
+    },
+    {
+      "id": "store-b562f6123bd8",
+      "name": "WE다니엘 서비스(전자담배)",
+      "region": "서울",
+      "address": "서울 강동구 성내로 54 1층 전자담배"
+    },
+    {
+      "id": "store-77e8aad4371e",
+      "name": "WE아가페",
+      "region": "경기",
+      "address": "경기 남양주시 화도읍 경춘로 1818"
+    },
+    {
+      "id": "store-72f328cb8767",
+      "name": "WE위베이프전자담배 수영역점",
+      "region": "부산",
+      "address": "부산 수영구 연수로 419 1층"
+    },
+    {
+      "id": "store-72ac39d66778",
+      "name": "WE전자담배레이벤",
+      "region": "광주",
+      "address": "광주광역시 서구 상무중앙로 64"
+    },
+    {
+      "id": "store-fd48989c42de",
+      "name": "WE위베이프 전자담배 군산나운점",
+      "region": "전북",
+      "address": "전북 군산시 대학로 302 1층 103호"
+    },
+    {
+      "id": "store-41dabe55f09d",
+      "name": "WE유성전자담배세종시청본점",
+      "region": "세종",
+      "address": "세종특별자치시 한누리대로 2135 1동 1층 118호"
+    },
+    {
+      "id": "store-7c378913664c",
+      "name": "WE위베이프 충북대점",
+      "region": "충북",
+      "address": "충북 청주시 흥덕구 내수동로59(복대동) 1층"
+    },
+    {
+      "id": "store-29510221e1d3",
+      "name": "WE광적전자담배",
+      "region": "경기",
+      "address": "경기도 양주시 광적면 가납리 721-13"
+    },
+    {
+      "id": "store-2d2b302d0a07",
+      "name": "WE강북/만선호프",
+      "region": "서울",
+      "address": "서울 중구 을지로13길 19"
+    },
+    {
+      "id": "store-80d46ec83496",
+      "name": "WE구름과자 대구태전",
+      "region": "대구",
+      "address": "대구광역시 북구 학정로 62"
+    },
+    {
+      "id": "store-0f83e5b76c44",
+      "name": "WE위베이프 전자담배 동탄센트럴파크점",
+      "region": "경기",
+      "address": "경기도 화성시 반송동 43-6 골드프라자 105호"
+    },
+    {
+      "id": "store-775a3962b8ba",
+      "name": "WE베이프식스틴",
+      "region": "서울",
+      "address": "서울 중구 소공로 58 지하층 라열 9,10호"
+    },
+    {
+      "id": "store-9c0480e21d90",
+      "name": "WE마크전자담배 금천구 가산점",
+      "region": "서울",
+      "address": "서울 금천구 가산디지털1로 168 우림라이온스밸리 A동 109호 마크전자담배"
+    },
+    {
+      "id": "store-13916a4234a9",
+      "name": "WE가락시장베이핑샵",
+      "region": "서울",
+      "address": "서울 송파구 송파대로28길 27 101동 219호"
+    },
+    {
+      "id": "store-6a95f148351c",
+      "name": "WE파스타바코 노원",
+      "region": "서울",
+      "address": "서울 노원구 한글비석로 419, 1층"
+    },
+    {
+      "id": "store-bd8f237dca5e",
+      "name": "WE전자담배 은평점",
+      "region": "서울",
+      "address": "서울 은평구 은평로91, B동 103호 (CJ드림시티)"
+    },
+    {
+      "id": "store-c25906ac3743",
+      "name": "WE위베이프 선학역점",
+      "region": "인천",
+      "address": "인천 연수구 선학동 403-28 1층 102호"
+    },
+    {
+      "id": "store-e32d906f4225",
+      "name": "WE위베이프 고양덕은점",
+      "region": "경기",
+      "address": "경기도 고양시 덕양구 청초로65 DMC한강 에일린의뜰"
+    },
+    {
+      "id": "store-b87a994aa05a",
+      "name": "WE하카액상코리아 공릉점",
+      "region": "서울",
+      "address": "서울 노원구 동일로 1054, 1층 (한일빌딩)"
+    },
+    {
+      "id": "store-c05c16919bd9",
+      "name": "WE위베이프 인천검단점",
+      "region": "인천",
+      "address": "인천 서구 원당대로 983 (원당동) 1층 104호"
+    },
+    {
+      "id": "store-f48e0224f9cd",
+      "name": "WE위베이프 전자담배 루원가정시티점",
+      "region": "인천",
+      "address": "인천광역시 서구 염곡로464번길11, 104호(가정동, 루원탑프라자)"
+    },
+    {
+      "id": "store-fb7380339138",
+      "name": "WE베이프칸",
+      "region": "서울",
+      "address": "서울 양천구 남부순환로83길 17 상가동 1-28호"
+    },
+    {
+      "id": "store-29a7c0a4c305",
+      "name": "WE동남전자담배",
+      "region": "충북",
+      "address": "충북 청주시 상당구 중고개로 141번길 18 1층 105호"
+    },
+    {
+      "id": "store-6c9e529fcbe2",
+      "name": "WE시가로전자담배 아산점",
+      "region": "충남",
+      "address": "충남 아산시 시민로 311 1층"
+    },
+    {
+      "id": "store-5b3c9ceb85c8",
+      "name": "WE블루가이",
+      "region": "경기",
+      "address": "경기 부천시 오정구 역곡로482번길 64"
+    },
+    {
+      "id": "store-8d99c1d75909",
+      "name": "WE시가마스터전자담배 용인동백점",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 동백중앙로 283 (중동, 골드프라자) c동 108호"
+    },
+    {
+      "id": "store-485bcf647f53",
+      "name": "WE다모아토바코",
+      "region": "서울",
+      "address": "서울 은평구 통일로 811"
+    },
+    {
+      "id": "store-cab4d68a4f0a",
+      "name": "WE몽베이프 전자담배",
+      "region": "서울",
+      "address": "서울 서대문구 거북골로 25-1, 1층"
+    },
+    {
+      "id": "store-b375f2171918",
+      "name": "WE전자담배신사",
+      "region": "서울",
+      "address": "서울 은평구 증산로 471, 1층"
+    },
+    {
+      "id": "store-6dded77fbf86",
+      "name": "WE너구리굴 전자담배 김포풍무점",
+      "region": "경기",
+      "address": "경기 김포시 풍무로146번길 18 (풍무동)"
+    },
+    {
+      "id": "store-3e86a3bf0f2b",
+      "name": "WE롤로코리아 칠곡",
+      "region": "경북",
+      "address": "경상북도 칠곡군 석적읍 북중리4길 47번지 106호(제일상가) 롤로타바코"
+    },
+    {
+      "id": "store-685317b6ea52",
+      "name": "WE군산전자담배 디오션베이프",
+      "region": "전북",
+      "address": "전북 군산시 백릉로 151"
+    },
+    {
+      "id": "store-d3963ab6d44f",
+      "name": "WE하카북가좌점",
+      "region": "서울",
+      "address": "서울 서대문구 응암로 99, 1층"
+    },
+    {
+      "id": "store-8d803ed6142c",
+      "name": "WE더셜록광양",
+      "region": "전남",
+      "address": "전남 광양시 사동로 3"
+    },
+    {
+      "id": "store-62cea2d02a5e",
+      "name": "WE전자담배 시화이마트점",
+      "region": "경기",
+      "address": "경기 시흥시 중심상가3길 9 청진프라자 108호"
+    },
+    {
+      "id": "store-9ab6a7d582a8",
+      "name": "WE하안동전자담배",
+      "region": "경기",
+      "address": "경기 광명시 범안로 1056 골든힐쇼핑센타 1층 123호"
+    },
+    {
+      "id": "store-80ba0ca87046",
+      "name": "WE DK코리아",
+      "region": "경기",
+      "address": "경기 성남시 분당구 성남대로925번길 16 3층118호 전자담배"
+    },
+    {
+      "id": "store-59ab420ed6a2",
+      "name": "WE코코 전자담배 용인신갈점",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 신갈로 95 (신갈동) 102호"
+    },
+    {
+      "id": "store-22f7759904fc",
+      "name": "WE뉴턴전자담배 해운대좌동점",
+      "region": "부산",
+      "address": "부산 해운대구 좌동로 95"
+    },
+    {
+      "id": "store-1b187bf8754d",
+      "name": "WE캡틴베이프 해운대점",
+      "region": "부산",
+      "address": "부산 해운대구 좌동순환로 498-1"
+    },
+    {
+      "id": "store-dd5d179fe102",
+      "name": "WE월드베이프 신포점",
+      "region": "인천",
+      "address": "인천 중구 개항로 54-1 1층"
+    },
+    {
+      "id": "store-28ce6cd262b5",
+      "name": "WE웅이네 멀티샵",
+      "region": "충남",
+      "address": "충남 천안시 동남구 광풍로 1865 101호"
+    },
+    {
+      "id": "store-96f5d322240e",
+      "name": "WE캡틴베이프 부산대점",
+      "region": "부산",
+      "address": "부산 금정구 금강로 253-1"
+    },
+    {
+      "id": "store-2923b1fcf5dd",
+      "name": "WE전자담배백화점 매곡점",
+      "region": "전남",
+      "address": "전남 순천시 중앙로 133 1층(매곡동)"
+    },
+    {
+      "id": "store-4a2885419fd6",
+      "name": "WE세븐코리아별내점",
+      "region": "경기",
+      "address": "경기도 남양주시 별내3로 80"
+    },
+    {
+      "id": "store-29f41c4dcfed",
+      "name": "WE서산 전자담배 위베이프",
+      "region": "충남",
+      "address": "충남 서산시 호수공원10로 6"
+    },
+    {
+      "id": "store-bedd0e9b984d",
+      "name": "WE위베이프 전자담배 용인보라점",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 한보라2로14번길 4-14 101호"
+    },
+    {
+      "id": "store-a7456ab9a780",
+      "name": "WE베이프247코지",
+      "region": "서울",
+      "address": "서울 마포구 와우산로 13길 6 1층 102호"
+    },
+    {
+      "id": "store-c8a1206853a1",
+      "name": "WE하드체리",
+      "region": "충남",
+      "address": "충남 음성군 감곡면 장감로 118-1 1층"
+    },
+    {
+      "id": "store-01d1308b484a",
+      "name": "WE뉴턴전자담배 반여점",
+      "region": "부산",
+      "address": "부산 해운대구 재반로 236-1"
+    },
+    {
+      "id": "store-ba54452f7c52",
+      "name": "WE조은전자담배",
+      "region": "부산",
+      "address": "부산 강서구 과학산단로334번길 13"
+    },
+    {
+      "id": "store-78f2399b87dc",
+      "name": "WE광주전자담배마켓",
+      "region": "광주",
+      "address": "광주광역시 북구 금남로 22"
+    },
+    {
+      "id": "store-611dc34524f1",
+      "name": "WE광주전자담배마켓/익산",
+      "region": "전북",
+      "address": "전북 익산시 무왕로 1002"
+    },
+    {
+      "id": "store-8c8482da336b",
+      "name": "WE광주전자담배마켓/군산",
+      "region": "전북",
+      "address": "전북 군산시 월명로 215"
+    },
+    {
+      "id": "store-be7804100c3c",
+      "name": "WE전주전자담배마켓",
+      "region": "전북",
+      "address": "전북 전주시 완산구 백제대로 256"
+    },
+    {
+      "id": "store-82d2b125def0",
+      "name": "WE광주전자담배마켓/전주에코시티",
+      "region": "전북",
+      "address": "전북 전주시 덕진구 과학로 20"
+    },
+    {
+      "id": "store-825d92900cbb",
+      "name": "WE광주전자담배마켓/모던베이프",
+      "region": "전북",
+      "address": "전북 전주시 덕진구 기린대로 508"
+    },
+    {
+      "id": "store-3574b9515351",
+      "name": "WE위베이프 전자담배 부산역점",
+      "region": "부산",
+      "address": "부산 동구 중앙대로 229"
+    },
+    {
+      "id": "store-1220d013e284",
+      "name": "WE광주전자담배마켓/전주시청",
+      "region": "전북",
+      "address": "전북 전주시 완산구 기린대로 222"
+    },
+    {
+      "id": "store-a529a6bbed6e",
+      "name": "WE뉴턴첨단전자담배 광산구점",
+      "region": "광주",
+      "address": "광주광역시 광산구 첨단강변로87번길 5"
+    },
+    {
+      "id": "store-f4054c18711d",
+      "name": "WE클로젯&베이프샵",
+      "region": "충남",
+      "address": "충남 논산시 계백로 1001-1 (취암동)"
+    },
+    {
+      "id": "store-3370192a8920",
+      "name": "WE대전자양전자담배마켓",
+      "region": "대전",
+      "address": "대전 동구 동대전로 157 (자양동) 1층 전자담배"
+    },
+    {
+      "id": "store-00955a45d9d7",
+      "name": "WE대전전자담배마켓 유성충대점",
+      "region": "대전",
+      "address": "대전 유성구 궁동로18번길 34 (궁동) 1층 전자담배"
+    },
+    {
+      "id": "store-c4d83b5e415a",
+      "name": "WE보령전자담배마켓",
+      "region": "충남",
+      "address": "충청남도 보령시 중앙로 5"
+    },
+    {
+      "id": "store-09a01cbd2b3e",
+      "name": "WE당진전자담배마켓",
+      "region": "충남",
+      "address": "충청남도 당진시 우두로1길 6-4"
+    },
+    {
+      "id": "store-b3322548f27e",
+      "name": "WE그린베이퍼",
+      "region": "경기",
+      "address": "경기도 김포시 김포한강1로98번길 17-104 1층"
+    },
+    {
+      "id": "store-16ac0be320c2",
+      "name": "WE베이프코리아언양점",
+      "region": "울산",
+      "address": "울산 울주군 삼남읍 중평로 28"
+    },
+    {
+      "id": "store-ec6e6b75b2cd",
+      "name": "WE아드레날린전자담배 언양점",
+      "region": "울산",
+      "address": "울산광역시 울주군 언양읍 북문8길 24 106호"
+    },
+    {
+      "id": "store-c7186cd53f1a",
+      "name": "WE주식회사 통다코리아",
+      "region": "인천",
+      "address": "인천 연수구 국제항만대로 160 (송도동, 인천항 스마트물류센터) 2층205호"
+    },
+    {
+      "id": "store-347fa4fb320c",
+      "name": "WE롤로 타바코 샵",
+      "region": "대구",
+      "address": "대구 서구 통학로114 (평리동)"
+    },
+    {
+      "id": "store-13db402ab024",
+      "name": "WE다니엘베가까치산점",
+      "region": "서울",
+      "address": "서울 강서구 곰달래로 142"
+    },
+    {
+      "id": "store-e858494964a6",
+      "name": "WE베이프박스 건대점",
+      "region": "서울",
+      "address": "서울 광진구 아차산로 31길54 1층"
+    },
+    {
+      "id": "store-bae33cc9bf25",
+      "name": "WE베이프가든서남시장점",
+      "region": "대구",
+      "address": "대구광역시 달서구 달구벌대로 1621"
+    },
+    {
+      "id": "store-8af7f902e36f",
+      "name": "WE위베이프 강릉본점",
+      "region": "강원",
+      "address": "강원 강릉시 입암로148번길 2 103호"
+    },
+    {
+      "id": "store-92c8c5d650bc",
+      "name": "WE뉴턴전자담배동해삼척점",
+      "region": "강원",
+      "address": "강원 동해시 한섬로 125"
+    },
+    {
+      "id": "store-5d8d7d119b3d",
+      "name": "WE예스",
+      "region": "서울",
+      "address": "서울 용산구 청파로 74 전자랜드 본관 1층 A-129호"
+    },
+    {
+      "id": "store-582cbf6cb544",
+      "name": "WE충무로베이프샵",
+      "region": "서울",
+      "address": "서울 중구 퇴계로 179-1, 1층"
+    },
+    {
+      "id": "store-961ff6839646",
+      "name": "WE삼성역전자담배",
+      "region": "서울",
+      "address": "서울 강남구 영동대로85길 20 대치3차 아이파크오피스텔 301호"
+    },
+    {
+      "id": "store-2c391eb90ad0",
+      "name": "WE너구리굴 전자담배 김포구래점",
+      "region": "경기",
+      "address": "경기 김포시 김포한강9로 79 연세프라자 5차 102호"
+    },
+    {
+      "id": "store-d1d75a289fa2",
+      "name": "WE위베이프 하단점",
+      "region": "부산",
+      "address": "부산 사하구 낙동대로 561"
+    },
+    {
+      "id": "store-73dccf7e0ede",
+      "name": "WE서대문전자담배마켓",
+      "region": "서울",
+      "address": "서울 서대문구 충정로 73, 1층"
+    },
+    {
+      "id": "store-3bb2863e7f27",
+      "name": "WE엘에스전자담배",
+      "region": "경기",
+      "address": "경기 김포시 김포한강11로 288-24 108호"
+    },
+    {
+      "id": "store-7ae31b4be687",
+      "name": "WE토네이도전자담배 인천주안",
+      "region": "인천",
+      "address": "인천 미추홀구 주안동 235 394호"
+    },
+    {
+      "id": "store-2397f75fb516",
+      "name": "WE클라우드캔디",
+      "region": "강원",
+      "address": "강원 춘천시 중앙로 80 1층"
+    },
+    {
+      "id": "store-3662dabced2b",
+      "name": "WE홍천전자담배마켓",
+      "region": "강원",
+      "address": "강원 홍천군 홍천로 3길 24"
+    },
+    {
+      "id": "store-78d2b012475d",
+      "name": "WE춘천전자담배마켓",
+      "region": "강원",
+      "address": "강원 푼천시 후평동 832-7번지 1층"
+    },
+    {
+      "id": "store-8d7234df80c1",
+      "name": "WE세종전자담배마켓",
+      "region": "세종",
+      "address": "세종특별자치시 보듬4로9 카림애비뉴 106호"
+    },
+    {
+      "id": "store-300dd7ea5e6e",
+      "name": "WE위베이프 전자담배 영일대점",
+      "region": "경북",
+      "address": "포항시 북구 삼호로 324-10 (두호동)"
+    },
+    {
+      "id": "store-3e1b9032f6a6",
+      "name": "WE뉴턴전자담배 천안점",
+      "region": "충남",
+      "address": "충남 천안시 동남구 동리길 24, 1층"
+    },
+    {
+      "id": "store-51e85da2e772",
+      "name": "WE이씨엠원주점",
+      "region": "강원",
+      "address": "강원 원주시 시청로 160-1"
+    },
+    {
+      "id": "store-eee49c8d3573",
+      "name": "WE뉴턴전자담배 오산점",
+      "region": "경기",
+      "address": "경기도 오산시 경기대로 251(백마빌딩) 1층 101호"
+    },
+    {
+      "id": "store-73819d73d5da",
+      "name": "WE베이프랩 양재점",
+      "region": "서울",
+      "address": "서울 서초구 강남대로 224 한신휴플러스 205호"
+    },
+    {
+      "id": "store-c2a273318392",
+      "name": "WE석남동전자담배",
+      "region": "인천",
+      "address": "인천 서구 율도로90(석남동) 1층 전자담배"
+    },
+    {
+      "id": "store-ab3c9098598d",
+      "name": "WE마포전자담배 크베",
+      "region": "서울",
+      "address": "서울 마포구 마포대로 112, 1층"
+    },
+    {
+      "id": "store-2079f0088358",
+      "name": "WE수전자담배",
+      "region": "인천",
+      "address": "인천 서구 완정로 26 수옥빌딩 1층 105호"
+    },
+    {
+      "id": "store-dfbe2180528e",
+      "name": "WE바카트로 뉴턴",
+      "region": "서울",
+      "address": "서울 중랑구 면목로 391, 1층"
+    },
+    {
+      "id": "store-df1b157e73d7",
+      "name": "WE시가밸리 광주하남",
+      "region": "광주",
+      "address": "광주 광산구 용아로400번길 30 시가밸리 전자담배"
+    },
+    {
+      "id": "store-997185cf4756",
+      "name": "WE마포전자담배액상몰망원점",
+      "region": "서울",
+      "address": "서울 마포구 망원로 74 1층전자담배"
+    },
+    {
+      "id": "store-2213d8683fd6",
+      "name": "WE위베이프 청대후문점",
+      "region": "충북",
+      "address": "충북 청주시 청원구 청주대학교"
+    },
+    {
+      "id": "store-2719bd74a523",
+      "name": "WE알와이오(영대점)",
+      "region": "경북",
+      "address": "경북 경산시 압량읍 부적길 8-1 (부적리) 알와이오 수제담배"
+    },
+    {
+      "id": "store-f21934177003",
+      "name": "WE뉴턴 연산동점",
+      "region": "부산",
+      "address": "부산 연제구 쌍미천로 3 1층"
+    },
+    {
+      "id": "store-e91c24a4844d",
+      "name": "WE위베이프성주점",
+      "region": "경북",
+      "address": "경상북도 성주군 성주읍 성주읍3길 50"
+    },
+    {
+      "id": "store-f4f5f1f3eb59",
+      "name": "WE위베이프 가오동 전자담배 가오점",
+      "region": "대전",
+      "address": "대전광역시 동구 동구청로 101"
+    },
+    {
+      "id": "store-26c40171ec22",
+      "name": "WE관평동전자담배 아메리퀴드",
+      "region": "대전",
+      "address": "대전광역시 유성구 테크노4로 105 (T PLAZA)"
+    },
+    {
+      "id": "store-8528c647fabf",
+      "name": "WE왕씨씨",
+      "region": "서울",
+      "address": "서울시 중구 명동4길 20, 내제 1,2,3,4,5층호(명동2가)"
+    },
+    {
+      "id": "store-4547d691c5d8",
+      "name": "WE24로드전자담배",
+      "region": "서울",
+      "address": "서울 성북구 길음로 11, 136호"
+    },
+    {
+      "id": "store-ba1f88872c17",
+      "name": "WE도깨비전자 삼성점",
+      "region": "서울",
+      "address": "서울 강남구 봉은사로82길 25 (삼성동) 103호"
+    },
+    {
+      "id": "store-411976fbdc82",
+      "name": "WE구름공작소 전자담배",
+      "region": "경기",
+      "address": "경기 광주시 오포읍 양벌로353번길 3 (YB1PLAZA) 1층 구름공작소 전자담배"
+    },
+    {
+      "id": "store-56dfb7856e73",
+      "name": "WE태경",
+      "region": "경기",
+      "address": "경기 용인시 처인구 경안천로 18"
+    },
+    {
+      "id": "store-45a3e2db8cb5",
+      "name": "WE다니엘전자담배 경인교대",
+      "region": "인천",
+      "address": "인천 계양구 계양대로 164 1층"
+    },
+    {
+      "id": "store-85c4c44a864e",
+      "name": "WE성심이지알",
+      "region": "서울",
+      "address": "서울 중구 퇴계로 384(신당동)"
+    },
+    {
+      "id": "store-d51cac04df41",
+      "name": "WE고대베이프멀티샵",
+      "region": "서울",
+      "address": "서울 동대문구 안암로 158 (제기동) 전자담배"
+    },
+    {
+      "id": "store-baa1eef93b93",
+      "name": "WE베이프랩 전농점",
+      "region": "서울",
+      "address": "서울 동대문구 서울시립대로 44, 1층"
+    },
+    {
+      "id": "store-5d1ce8b7af19",
+      "name": "WE라미야전자담배 군포금정",
+      "region": "경기",
+      "address": "경기 군포시 산본천로226번길 37 1층"
+    },
+    {
+      "id": "store-dfd2987ea216",
+      "name": "WE보라매전자담배",
+      "region": "서울",
+      "address": "서울 영등포구 신풍로 105 1층전자담배"
+    },
+    {
+      "id": "store-a4c3d956536b",
+      "name": "WE고척 전자담배",
+      "region": "서울",
+      "address": "서울특별시 구로구 경서로 39-1"
+    },
+    {
+      "id": "store-f4f79e097a32",
+      "name": "WE뉴턴전자담배 다대점",
+      "region": "부산",
+      "address": "부산 사하구 다대로 533 (다대동)"
+    },
+    {
+      "id": "store-0aef758ebcb4",
+      "name": "WE하카 울산구영점",
+      "region": "울산",
+      "address": "울산 울주군 범서읍 구영로 138 (구영리) 1층"
+    },
+    {
+      "id": "store-25d0c2f54a5c",
+      "name": "WE베이프렙원당점",
+      "region": "인천",
+      "address": "인천 서구 당하동1028-10"
+    },
+    {
+      "id": "store-0d3bf3155f41",
+      "name": "WE위베이프 쌍문역점",
+      "region": "서울",
+      "address": "서울 도봉구 도봉로 484, 3층 (청우빌딩)"
+    },
+    {
+      "id": "store-c495a4add440",
+      "name": "WE베이프캔디 광교",
+      "region": "경기",
+      "address": "경기 수원시 영통구 센트럴타운로107 204동 1층26호"
+    },
+    {
+      "id": "store-919c25b5e844",
+      "name": "WE토네이도전자담배 고양동산",
+      "region": "경기",
+      "address": "경기도 고양시 덕양구 동세로 11 명주프라자 1층 105호"
+    },
+    {
+      "id": "store-a472898c31f5",
+      "name": "WE베이프립 전자담배",
+      "region": "서울",
+      "address": "서울 성북구 오패산로 99, 1층 101호"
+    },
+    {
+      "id": "store-b4bb7dc60163",
+      "name": "WE치타 전자담배",
+      "region": "경기",
+      "address": "경기 고양시 일산서구 고양대로 648 상가동 1층 치타전자담배"
+    },
+    {
+      "id": "store-5161a709c4dd",
+      "name": "WE누베이프",
+      "region": "경기",
+      "address": "경기 화성시 동탄대로시범길 134 판매시설동 1층 1082호 누베이프"
+    },
+    {
+      "id": "store-351bd9adea72",
+      "name": "WE석남역전자담배",
+      "region": "인천",
+      "address": "인천 서구 길주로78 석남동 1층"
+    },
+    {
+      "id": "store-43d04a332ac9",
+      "name": "WE에이치제이샵(HJ SHOP)",
+      "region": "서울",
+      "address": "서울 강동구 양재대로 1482 1층"
+    },
+    {
+      "id": "store-5116ac2b0a0b",
+      "name": "WE시가베이프",
+      "region": "광주",
+      "address": "광주 동구 제봉로 70 1층"
+    },
+    {
+      "id": "store-0cc2c4d8853d",
+      "name": "WE베이프리아",
+      "region": "전북",
+      "address": "전북특별자치도 전주시 덕진구 동부대로 737 1층"
+    },
+    {
+      "id": "store-5719de714e5d",
+      "name": "WE수원24시전자담배",
+      "region": "경기",
+      "address": "경기도 수원시 장안구 수성로262번길 3"
+    },
+    {
+      "id": "store-4f7a5eaab987",
+      "name": "WE화서동 전자담배",
+      "region": "경기",
+      "address": "경기 수원시 팔달구 팔달로110번길 3 1층"
+    },
+    {
+      "id": "store-771baa23338f",
+      "name": "WE베이플레이전자담배",
+      "region": "대전",
+      "address": "대전광역시 유성구 북유성대로 303 (뉴타운프라자)"
+    },
+    {
+      "id": "store-e5964c440cd1",
+      "name": "WE위베이프 사곡점",
+      "region": "경북",
+      "address": "경상북도 구미시 상사서로 173-3 1층 101호 전자담배"
+    },
+    {
+      "id": "store-58508c8e618a",
+      "name": "WE아이다전자담배 경기광주",
+      "region": "경기",
+      "address": "경기 광주시 경안천로 113 (송정동, 송정우림필유아파트) 아이다 전자담배"
+    },
+    {
+      "id": "store-36ee2fca6f2e",
+      "name": "WE중랑구상봉동아이다전자담배",
+      "region": "서울",
+      "address": "서울 중랑구 면목로 488, 1층"
+    },
+    {
+      "id": "store-b88be1a6d7d5",
+      "name": "WE페로젠전자담배",
+      "region": "서울",
+      "address": "서울 광진구 능동로 342, 1층"
+    },
+    {
+      "id": "store-2f720a1db9bb",
+      "name": "WE차차프렌즈",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 중부대로 732 (상하동) 1층 차차프렌즈"
+    },
+    {
+      "id": "store-7b0f172f9fe8",
+      "name": "WE화명동전자담배샤크베이퍼",
+      "region": "부산",
+      "address": "부산 북구 와석장터로 1 (화명동)"
+    },
+    {
+      "id": "store-b9bf820af78a",
+      "name": "WE연s vape shop",
+      "region": "경기",
+      "address": "경기 의정부시 태평로73번길 46 (의정부동) 1층"
+    },
+    {
+      "id": "store-bacf6aa67622",
+      "name": "WE웨이프 스토어 82(Vape Store 82)",
+      "region": "인천",
+      "address": "인천 연수구 함박안로220번길 16"
+    },
+    {
+      "id": "store-4b0ebac517f6",
+      "name": "WE Vape Store 82",
+      "region": "경기",
+      "address": "경기 안산시 원곡동 799-8 칸 알렉산더"
+    },
+    {
+      "id": "store-4dd621891f0b",
+      "name": "WE오드노라즈기(Odnorazki)",
+      "region": "경기",
+      "address": "경기 안성시 대덕면 대학10길3 1층"
+    },
+    {
+      "id": "store-e7096aa24296",
+      "name": "WE엘레크트론기(Elektronki)",
+      "region": "충남",
+      "address": "충남 아산시 둔포면 둔포중앙로 143 1층"
+    },
+    {
+      "id": "store-caa7ea6f3cdb",
+      "name": "WE신월동전자담배 아울신월점",
+      "region": "서울",
+      "address": "서울 양천구 곰달래로 25"
+    },
+    {
+      "id": "store-f7c6413d254f",
+      "name": "WE주)베이프코리아/중문직영점",
+      "region": "제주",
+      "address": "제주 서귀포시 신서귀로 3 제상가동 제1층 제101호"
+    },
+    {
+      "id": "store-04167eedc9d4",
+      "name": "WE주)베이프코리아/서귀포직영점",
+      "region": "제주",
+      "address": "제주 서귀포시 동홍서로 68"
+    },
+    {
+      "id": "store-06e725f95f95",
+      "name": "WE제주도정품전자담배노형본점 주식회사",
+      "region": "제주",
+      "address": "제주 제주시 도령로 1 1층"
+    },
+    {
+      "id": "store-520919c113df",
+      "name": "WE주)베이프코리아/노형직영점",
+      "region": "제주",
+      "address": "제주 제주시 1100로 3308 1층 정품 전자담배"
+    },
+    {
+      "id": "store-bf53d1084fcb",
+      "name": "WE주)베이프코리아/일도직영점",
+      "region": "제주",
+      "address": "제주특별자치도 제주시 동광로 118 1층"
+    },
+    {
+      "id": "store-57b0c7e7688a",
+      "name": "WE주)베이프코리아/이도직영점",
+      "region": "제주",
+      "address": "제주 제주시 중앙로 291 복강빌딩 1층"
+    },
+    {
+      "id": "store-092f7811cdf6",
+      "name": "WE주)베이프코리아/삼화직영점",
+      "region": "제주",
+      "address": "제주 제주시 일주동로 214 1층"
+    },
+    {
+      "id": "store-1187dc0f25dd",
+      "name": "WE전자담배 멀티",
+      "region": "대구",
+      "address": "대구 북구 동북로 189"
+    },
+    {
+      "id": "store-f6dc64be37bc",
+      "name": "WE대구호산동전자담배공단점",
+      "region": "대구",
+      "address": "대구 달서구 호산동 712-19"
+    },
+    {
+      "id": "store-f6ae0dfadae0",
+      "name": "WE갈마전자담배멀티샵 갈마2동점",
+      "region": "대전",
+      "address": "대전광역시 서구 갈마중로 48-1"
+    },
+    {
+      "id": "store-7422eb89cc70",
+      "name": "WE다니엘전자담배천안점",
+      "region": "충남",
+      "address": "충남 천안시 서북구 쌍용동 1108"
+    },
+    {
+      "id": "store-0f01152f8c29",
+      "name": "WE다니엘전자담배아산점",
+      "region": "충남",
+      "address": "충남 아산시 배방읍 북수서로 36"
+    },
+    {
+      "id": "store-6deb5788bbf6",
+      "name": "WE코코전자담배 영천점 (멀티상사)",
+      "region": "경북",
+      "address": "경북 영천시 금완로8(금노동 580-1)"
+    },
+    {
+      "id": "store-a24f121641bc",
+      "name": "WE코코전자담배 형곡점",
+      "region": "경북",
+      "address": "경북 구미시 새마을로 7 전자담배"
+    },
+    {
+      "id": "store-1b10993e0cb8",
+      "name": "WE현풍구지전자담배",
+      "region": "대구",
+      "address": "대구 달성군 현풍읍 테크노상업로 34 (중리) 111호"
+    },
+    {
+      "id": "store-8cb362876d35",
+      "name": "WE졸리베이프 고산점",
+      "region": "대구",
+      "address": "대구광역시 수성구 달구벌대로 3072 1층 졸리베이프"
+    },
+    {
+      "id": "store-d1479b32b318",
+      "name": "WE위베이프인동점",
+      "region": "경북",
+      "address": "경북 구미시 인동15길5 1층 104호"
+    },
+    {
+      "id": "store-b450ff80c44c",
+      "name": "WE(주)에코스틱",
+      "region": "서울",
+      "address": "서울 종로구 종로 233, 1층"
+    },
+    {
+      "id": "store-185d8f318dbe",
+      "name": "WE거제전자담배멀티샵",
+      "region": "경남",
+      "address": "경남 거제시 장평로 3"
+    },
+    {
+      "id": "store-5cded18bf6e9",
+      "name": "WE괜찮은담배",
+      "region": "대구",
+      "address": "대구시 서구 서구대로 193, 1층"
+    },
+    {
+      "id": "store-a86172e85b35",
+      "name": "WE뉴턴전자담배 장유점",
+      "region": "경남",
+      "address": "경남 김해시 번화1로68번길 19 엔플러스2빌딩 104호"
+    },
+    {
+      "id": "store-16bb9468acd1",
+      "name": "WE에어릭스 전자담배(수원곡반정점)",
+      "region": "경기",
+      "address": "경기 수원시 권선구 동수원로146번길 145 1층 102호"
+    },
+    {
+      "id": "store-91450fa6e07e",
+      "name": "WE구름베이프",
+      "region": "서울",
+      "address": "서울 성동구 왕십리로21길 12, 1층"
+    },
+    {
+      "id": "store-092536a21c01",
+      "name": "WE어벤져스리앤비 경희대점",
+      "region": "서울",
+      "address": "서울 동대문구 회기로 155-1, 1층 1호"
+    },
+    {
+      "id": "store-953271e1581f",
+      "name": "WE위베이프전자담배 목포하당점",
+      "region": "전남",
+      "address": "전남 목포시 옥암로83"
+    },
+    {
+      "id": "store-6f9a065c9b9f",
+      "name": "WE광주전자담배 스칸센vape",
+      "region": "광주",
+      "address": "광주 북구 첨단연신로91번길 10"
+    },
+    {
+      "id": "store-92107af9fed3",
+      "name": "WE전자담배연구소",
+      "region": "서울",
+      "address": "서울 강서구 까치산로 114 1층"
+    },
+    {
+      "id": "store-d4ab673ead34",
+      "name": "WE럭스전자담배",
+      "region": "경기",
+      "address": "경기 이천시 갈산로 168 럭스전자담배"
+    },
+    {
+      "id": "store-e28c9ba495ae",
+      "name": "WE위베이프 중동 현대점",
+      "region": "경기",
+      "address": "경기도 부천시 원미구 중동 1167-3번지 파크리움 107호,108호"
+    },
+    {
+      "id": "store-b815eea6fa2b",
+      "name": "WE위베이프 전자담배 구읍뱃터점",
+      "region": "인천",
+      "address": "인천 중구 영종진광장로10 오션파크나인 호텔 1층"
+    },
+    {
+      "id": "store-ec2fa349f644",
+      "name": "WE베이프247홍대",
+      "region": "서울",
+      "address": "서울 마포구 와우산로29다길 10 1층 103호"
+    },
+    {
+      "id": "store-3f91c50082f7",
+      "name": "WE블레스전자담배",
+      "region": "서울",
+      "address": "서울 동대문구 왕산로 247, 1층"
+    },
+    {
+      "id": "store-08b547b74ec0",
+      "name": "WE베이프마스터 광복점",
+      "region": "부산",
+      "address": "부산 중구 광복로 61"
+    },
+    {
+      "id": "store-6bdd5c6b8280",
+      "name": "WE위베이프 부천송내투나점",
+      "region": "경기",
+      "address": "경기 부천시 원미구 부일로 223"
+    },
+    {
+      "id": "store-c382d5d4e099",
+      "name": "WE조아전자담배",
+      "region": "서울",
+      "address": "서울 성동구 장터길 45-1, 1층"
+    },
+    {
+      "id": "store-58d004699a61",
+      "name": "WE용가리전자담배",
+      "region": "경기",
+      "address": "경기 김포시 통진읍 조강로 75-1(마송리) 1층 전자담배"
+    },
+    {
+      "id": "store-e2e67d084e56",
+      "name": "WE쇼카멀티샵",
+      "region": "경기",
+      "address": "경기 화성시 봉담읍 삼천병마로 1262-6 (상리) 정민건물1층 전자담배"
+    },
+    {
+      "id": "store-9c7f402d6bb8",
+      "name": "WE장안전자담배멀티샵",
+      "region": "서울",
+      "address": "서울 동대문구 장한로12길 19, 1층"
+    },
+    {
+      "id": "store-f6b07f902992",
+      "name": "WE금연전담반",
+      "region": "서울",
+      "address": "서울 광진구 자양로 259, 1층 (새서울빌딩)"
+    },
+    {
+      "id": "store-84e51de7f3bf",
+      "name": "WE멀티시가용원점",
+      "region": "경남",
+      "address": "경남 창원시 진해구 용재로 54-1 1층"
+    },
+    {
+      "id": "store-1bc69d3d0deb",
+      "name": "WE신항전자담배",
+      "region": "경남",
+      "address": "경남 창원시 진해구 신항4로 47-24 101호"
+    },
+    {
+      "id": "store-5b872b964b98",
+      "name": "WE제니스팟",
+      "region": "서울",
+      "address": "서울 서초구 효령로 36 (방배동, 세중빌딩) 103호 제니스"
+    },
+    {
+      "id": "store-d6a1c71c0856",
+      "name": "WE알와이오(연암점)",
+      "region": "대구",
+      "address": "대구시 북구 연암로 150-1(기존주소 : 대구시 서구 달서로 278)"
+    },
+    {
+      "id": "store-5e8c441ddbb2",
+      "name": "WE이름(ereum)",
+      "region": "인천",
+      "address": "인천시 미추홀구 경인로 1, 1층 102호 (숭의동)"
+    },
+    {
+      "id": "store-040154fb9e4a",
+      "name": "WE베이프247은평",
+      "region": "서울",
+      "address": "서울 은평구 연서로 313-1, 102호"
+    },
+    {
+      "id": "store-9d64527d284e",
+      "name": "WE베이핑클래스",
+      "region": "경기",
+      "address": "경기 화성시 향남읍 상신하길로298번길 11 (하길리) 109호"
+    },
+    {
+      "id": "store-b7672c7c1a4a",
+      "name": "WE이츠베이프",
+      "region": "대구",
+      "address": "대구광역시 달서구 진천로 75-7, 1층 106호"
+    },
+    {
+      "id": "store-7e3a916d0983",
+      "name": "WE대구전자담배 젠틀맨 죽전점",
+      "region": "대구",
+      "address": "대구광역시 달서구 와룡로 118, 1층 102호"
+    },
+    {
+      "id": "store-39b5cf7846cc",
+      "name": "WE대구전자담배 젠틀맨 두류점",
+      "region": "대구",
+      "address": "대구광역시 서구 달구벌대로 1863, 1층 102호"
+    },
+    {
+      "id": "store-e4f4fe3a42fd",
+      "name": "WE대구전자담배젠틀맨 침산점",
+      "region": "대구",
+      "address": "대구광역시 북구 침산로 116, 1층"
+    },
+    {
+      "id": "store-093201ab2afa",
+      "name": "WE대구전자담배전문샵 성서점",
+      "region": "대구",
+      "address": "대구광역시 달서구 달구벌대로 1336, 1층"
+    },
+    {
+      "id": "store-406555c67871",
+      "name": "WE위베이프 전자담배 도봉구청점",
+      "region": "서울",
+      "address": "서울시 도봉구 마들로 657"
+    },
+    {
+      "id": "store-036fd692f801",
+      "name": "WE위베이프 응암역",
+      "region": "서울",
+      "address": "서울 은평구 증산로 467 1층"
+    },
+    {
+      "id": "store-7fa5f8cfb818",
+      "name": "WE위베이프 전자담배 송도트리플스트리트점",
+      "region": "인천",
+      "address": "인천 연수구 송도과학로16번길 33-2"
+    },
+    {
+      "id": "store-fdca943bee9f",
+      "name": "WE위베이프 송 전자담배 상도점",
+      "region": "서울",
+      "address": "서울 동작구 양녕로 265 지1층"
+    },
+    {
+      "id": "store-c56aa1d62591",
+      "name": "WE팬더베이프",
+      "region": "충북",
+      "address": "충북 제천시 청풍호로9길 3 104호 전자담배"
+    },
+    {
+      "id": "store-54b4689005fe",
+      "name": "WE광명전자담배",
+      "region": "경기",
+      "address": "경기 광명시 신기로17번길 3 1층 109호"
+    },
+    {
+      "id": "store-6c3e9748bace",
+      "name": "WE안양전자담배",
+      "region": "경기",
+      "address": "경기 안양시 동안구 관평로305번길 49 1층 104호"
+    },
+    {
+      "id": "store-deceea28de24",
+      "name": "WE안산전자담배",
+      "region": "경기",
+      "address": "경기 안산시 단원구 선부광장1로 84 1층 108호"
+    },
+    {
+      "id": "store-433f17c8e9c9",
+      "name": "WE위베이프강남점",
+      "region": "서울",
+      "address": "서울 강남구 강남대로 지하 396 강남역지하쇼핑센터 D22호"
+    },
+    {
+      "id": "store-6666255d3163",
+      "name": "WE위베이프 남포점(베이프마스터 남포점)",
+      "region": "부산",
+      "address": "부산 중구 구덕로 32-1"
+    },
+    {
+      "id": "store-2ebd515c9604",
+      "name": "WE(유)피에스랩",
+      "region": "서울",
+      "address": "서울 중구 명동길 27-1 1층"
+    },
+    {
+      "id": "store-d88fbac02acc",
+      "name": "WE위베이프 송파잠실점",
+      "region": "서울",
+      "address": "서울 송파구 송파대로 404 1층 아이다 전자담배 송파잠실점"
+    },
+    {
+      "id": "store-4a28ca8e39cf",
+      "name": "WE한국전자담배 서울구로",
+      "region": "서울",
+      "address": "서울 구로구 경인로 206 1층"
+    },
+    {
+      "id": "store-8f07d4916ec3",
+      "name": "WE베이프파크",
+      "region": "서울",
+      "address": "서울 중랑구 동일로92길 21, 1층 102호"
+    },
+    {
+      "id": "store-764321c53b05",
+      "name": "WE진영전자담배플러스",
+      "region": "경남",
+      "address": "경남 김해시 장등로19번길 55 103호"
+    },
+    {
+      "id": "store-6856ea76d791",
+      "name": "WE진영전자담배베이프",
+      "region": "경남",
+      "address": "경남 김해시 여래로 36 1층"
+    },
+    {
+      "id": "store-6d7d07d0fd85",
+      "name": "WE스타베이프김해외동점",
+      "region": "경남",
+      "address": "경남 김해시 내외중앙로 47 115호"
+    },
+    {
+      "id": "store-60b84b237798",
+      "name": "WE E&T",
+      "region": "전남",
+      "address": "전남 나주시 우정로 103 상가동 118호 전자담배"
+    },
+    {
+      "id": "store-ddcd035add60",
+      "name": "WE베이프엔젤",
+      "region": "서울",
+      "address": "서울 중랑구 용마산로 377, B동 1층 1호"
+    },
+    {
+      "id": "store-92e88c009ad4",
+      "name": "WE멀티시가 경남대점",
+      "region": "경남",
+      "address": "경남 창원시 마산합포구 가포로 1"
+    },
+    {
+      "id": "store-debe6a729363",
+      "name": "WE내서 전자담배",
+      "region": "경남",
+      "address": "경남 창원시 마산회원구 내서읍 경남대로 979-1"
+    },
+    {
+      "id": "store-c5bfba07ab4c",
+      "name": "WE부평 전자담배 부흥오거리점",
+      "region": "인천",
+      "address": "인천 부평구 부평동 124-21 앰브이101호"
+    },
+    {
+      "id": "store-3bc32c5e9072",
+      "name": "WE위베이프 양주옥정점",
+      "region": "경기",
+      "address": "경기 양주시 옥정동로7다길 12-13 113호"
+    },
+    {
+      "id": "store-a90efa1d81fb",
+      "name": "WE위베이프전자담배 전주평화점(네이처리프 평화점)",
+      "region": "전북",
+      "address": "전북 전주시 완산구 소대배기로 21 2층 바른담뱃잎"
+    },
+    {
+      "id": "store-84c5ce367cfd",
+      "name": "WE브이전자담배 역곡점",
+      "region": "경기",
+      "address": "경기 부천시 원미구 부일로 719 1층"
+    },
+    {
+      "id": "store-02f84339bdc0",
+      "name": "WE병점저스코전자담배",
+      "region": "경기",
+      "address": "경기 화성시 경기대로 1030 1층"
+    },
+    {
+      "id": "store-76fe650d3aef",
+      "name": "WE팡전자담배",
+      "region": "경기",
+      "address": "경기 화성시 병점서로 31-6 신창프라자 106호"
+    },
+    {
+      "id": "store-2435c17f06f4",
+      "name": "WE하비스코리아",
+      "region": "경기",
+      "address": "경기 부천시 원미구 부일로 640-1"
+    },
+    {
+      "id": "store-2f083ba74bae",
+      "name": "WE위베이프 전자담배 동탄역점",
+      "region": "경기",
+      "address": "경기 화성시 오산동 1020 판매시설 제1층 1106호(동탄역우미린공인중개사사무소 바로 옆)"
+    },
+    {
+      "id": "store-d8aa69e12654",
+      "name": "WE뉴턴전자담배 기장점",
+      "region": "부산",
+      "address": "부산 기장군 기장읍 차성동로 145"
+    },
+    {
+      "id": "store-ae4ed2831d57",
+      "name": "WE위베이프 거창점",
+      "region": "경남",
+      "address": "경남 거창군 가창읍 중앙로 84"
+    },
+    {
+      "id": "store-12a760cb606c",
+      "name": "WE원주전자담배마켓",
+      "region": "강원",
+      "address": "강원 원주시 봉화로 42"
+    },
+    {
+      "id": "store-e68fb0427089",
+      "name": "WE전자담배마켓 명천점",
+      "region": "충남",
+      "address": "충남 보령시 명천동 117-1"
+    },
+    {
+      "id": "store-2d8effc76dbf",
+      "name": "WE베이프마스터 당리점",
+      "region": "부산",
+      "address": "부산 사하구 낙동대로 367"
+    },
+    {
+      "id": "store-a91c2ce5171d",
+      "name": "WE제이스전자담배",
+      "region": "서울",
+      "address": "서울 도봉구 도봉로 145길 39, 1층"
+    },
+    {
+      "id": "store-6afd9ea5402e",
+      "name": "WE김포한강스토어",
+      "region": "경기",
+      "address": "경기 김포시 김포한강4로 487 반도유보라4차 상가1층 1084호"
+    },
+    {
+      "id": "store-7a28b743ffc1",
+      "name": "WE베이핑",
+      "region": "경기",
+      "address": "경기 김포시 솔터로 22 301동 1층 128호 베이핑"
+    },
+    {
+      "id": "store-f144da662363",
+      "name": "WE광안24전자담배(무인)",
+      "region": "부산",
+      "address": "부산시 수영구 민락본동로27번길67 1층"
+    },
+    {
+      "id": "store-ccc2d96ab22c",
+      "name": "WE동연복권",
+      "region": "울산",
+      "address": "울산 북구 송정14길 8 (송정동) 1층 102호"
+    },
+    {
+      "id": "store-63bedffcf376",
+      "name": "WE강북/제이엔제이",
+      "region": "서울",
+      "address": "서울 중구 장충단로 247 (굿모닝시티쇼핑몰), B302-16"
+    },
+    {
+      "id": "store-33f4de21992e",
+      "name": "WE광교 위베이프2호점",
+      "region": "경기",
+      "address": "경기 수원시 영통구 법조로 25 광교 SK VIEW LAKE B119호"
+    },
+    {
+      "id": "store-a14ab1b91174",
+      "name": "WE경주전자담배",
+      "region": "경북",
+      "address": "경북 경주시 용담로 38 황성주공1차 상가 108호"
+    },
+    {
+      "id": "store-06f6c051f171",
+      "name": "WE베이프킹덤",
+      "region": "서울",
+      "address": "서울 서대문구 증가로 150 상가100동 B322호"
+    },
+    {
+      "id": "store-ae829bbb0525",
+      "name": "WE위베이프전자담배사당점",
+      "region": "서울",
+      "address": "서울 동작구 사당로16길 47"
+    },
+    {
+      "id": "store-f8eaa8d29ff9",
+      "name": "WE뷰티스토어",
+      "region": "서울",
+      "address": "서울 영등포구 대림동 807-9 대영빌딩 104호"
+    },
+    {
+      "id": "store-99c1ae4fac48",
+      "name": "WE베이프살롱 중랑점",
+      "region": "서울",
+      "address": "서울특별시 중랑구 중랑역로 199 1층"
+    },
+    {
+      "id": "store-888012aa73fd",
+      "name": "WE전담잇슈",
+      "region": "서울",
+      "address": "서울 성북구 월곡로 102 (하월곡동) 1층 전자담배"
+    },
+    {
+      "id": "store-c6c2114d9604",
+      "name": "WE괴정베이프미",
+      "region": "부산",
+      "address": "부산 사하구 낙동대로 218 1층"
+    },
+    {
+      "id": "store-48a4491b0bc0",
+      "name": "WE탑베이프",
+      "region": "대전",
+      "address": "대전 서구 내동 22-15"
+    },
+    {
+      "id": "store-35dc29a46e80",
+      "name": "WE타맥전자담배",
+      "region": "서울",
+      "address": "서울 중랑구 답십리로 383-1"
+    },
+    {
+      "id": "store-7c9d9d658831",
+      "name": "WE위베이프전자담배 시흥신천점",
+      "region": "경기",
+      "address": "경기 시흥시 수인로 3312번길 16 시흥센트럴푸르지오 T동 지3층 T118호 (대야동)"
+    },
+    {
+      "id": "store-7db22163754d",
+      "name": "WE위베이프 인천공항점",
+      "region": "인천",
+      "address": "인천 중구 흰바위로59번길 8 (운서동) 상가동 1층 101호"
+    },
+    {
+      "id": "store-e330933eaa45",
+      "name": "WE위베이프전자담배 봉곡점",
+      "region": "경북",
+      "address": "경북 구미시 봉곡로 66 1층"
+    },
+    {
+      "id": "store-21a7827b533f",
+      "name": "WE신대방역전자담배",
+      "region": "서울",
+      "address": "서울 관악구 신사로 92 1층 신대방역 전자담배"
+    },
+    {
+      "id": "store-46c8ee37fc8b",
+      "name": "WE성신전자담배",
+      "region": "서울",
+      "address": "서울 성북구 동소문로22길5"
+    },
+    {
+      "id": "store-b7288fcac406",
+      "name": "WE너구리 전자담배 오금점",
+      "region": "서울",
+      "address": "서울 송파구 마천로 68 (오금동, 청용빌딩) 1층 너구리 전자담배"
+    },
+    {
+      "id": "store-160a0a706688",
+      "name": "WE베이프 신촌포스빌점",
+      "region": "서울",
+      "address": "서울 마포구 신촌로150, 1층"
+    },
+    {
+      "id": "store-4a3950763cc2",
+      "name": "WE베이퍼럽 전자담배",
+      "region": "서울",
+      "address": "서울 광진구 능동로53길 19"
+    },
+    {
+      "id": "store-4bd5395566ad",
+      "name": "WE뮤전자담배주식회사",
+      "region": "서울",
+      "address": "서울 관악구 남부순환로 1606 1층"
+    },
+    {
+      "id": "store-156aeadaa439",
+      "name": "WE신림전자담배",
+      "region": "서울",
+      "address": "서울 관악구 대학길 18"
+    },
+    {
+      "id": "store-8b5c74aec53c",
+      "name": "WE위베이프 전자담배 마곡나루점",
+      "region": "서울",
+      "address": "서울 강서구 마곡서로 158 마곡센트럴타워2차 1층"
+    },
+    {
+      "id": "store-cb124222c115",
+      "name": "WE노원전자담배백화점",
+      "region": "서울",
+      "address": "서울 노원구 동일로 173가길 140"
+    },
+    {
+      "id": "store-78531bb6fa11",
+      "name": "WE강북/성수점",
+      "region": "서울",
+      "address": "서울 성동구 연무장길 29-1 1층"
+    },
+    {
+      "id": "store-e2604346d6b7",
+      "name": "WE위베이프 전자담배 용산센트럴파크점",
+      "region": "서울",
+      "address": "서울 용산구 서빙고로 17 (한강로3가) 1097호"
+    },
+    {
+      "id": "store-f50819da28d3",
+      "name": "WE명품전자담배",
+      "region": "충북",
+      "address": "충북 음성군 금왕읍 탑골길 50, 1층"
+    },
+    {
+      "id": "store-fc85ceca1063",
+      "name": "WE고래vape전자담배",
+      "region": "서울",
+      "address": "서울 성북구 안암로67"
+    },
+    {
+      "id": "store-ffbff8622ca4",
+      "name": "WE위베이프전자담배 진월점",
+      "region": "광주",
+      "address": "광주 남구 효덕로 304 (진월동) 1층"
+    },
+    {
+      "id": "store-d4d9549074a7",
+      "name": "WE위베이프 오산세교점",
+      "region": "경기",
+      "address": "경기도 오산시 문헌공로 3, 101호(금암동, 인피니트타워)"
+    },
+    {
+      "id": "store-05c660ab17f3",
+      "name": "WE로미오전자담배 야당점",
+      "region": "경기",
+      "address": "경기 파주시 소리천로 25 유은타워7차 1층 150호"
+    },
+    {
+      "id": "store-4fd8b0cff82f",
+      "name": "WE킹전자담배 동대문점",
+      "region": "서울",
+      "address": "서울 중구 장충단로 263 (을지로6가, 밀리오레상가건물) 1층 216호"
+    },
+    {
+      "id": "store-ac9dcad2fe3c",
+      "name": "WE위베이프 언주 직영점",
+      "region": "서울",
+      "address": "서울 강남구 논현로 623 102호"
+    },
+    {
+      "id": "store-b16d554d01ef",
+      "name": "WE배곧전자담배",
+      "region": "경기",
+      "address": "경기 시흥시 서울대학로264번길 35 아브뉴그린동 112호 (버거킹옆)"
+    },
+    {
+      "id": "store-345ba3c3018f",
+      "name": "WE주광전자담배",
+      "region": "경기",
+      "address": "경기 광주시 곤지암읍 경충대로 756"
+    },
+    {
+      "id": "store-b2b156a602a8",
+      "name": "WE자바마케팅",
+      "region": "경기",
+      "address": "경기 안산시 상록구 석호로 262-1"
+    },
+    {
+      "id": "store-9f21fd52f4da",
+      "name": "WE담배멀티샵 인천동암",
+      "region": "인천",
+      "address": "인천 부평구 동암남로 7-1"
+    },
+    {
+      "id": "store-9623c2fb2225",
+      "name": "WE담배멀티샵 인천동수점",
+      "region": "인천",
+      "address": "인천광역시 부평구 동수로 36"
+    },
+    {
+      "id": "store-dee99a5328e7",
+      "name": "WE위베이프(읍내)",
+      "region": "대구",
+      "address": "대구 북구 칠곡중앙대로 450"
+    },
+    {
+      "id": "store-98797f4c6d0f",
+      "name": "WE미리내전자담배",
+      "region": "서울",
+      "address": "서울 강북구 솔샘로 64길 19"
+    },
+    {
+      "id": "store-35e60b8c7bdf",
+      "name": "WE위베이프 전자담배 을지로1호점",
+      "region": "서울",
+      "address": "서울 중구 을지로 156 1층"
+    },
+    {
+      "id": "store-2d428c0b0ed1",
+      "name": "WE위베이프 성수점(퍼니랜드)",
+      "region": "서울",
+      "address": "서울 성동구 연무장7길 3"
+    },
+    {
+      "id": "store-4a025b487bf5",
+      "name": "WE부천전자담배다니엘",
+      "region": "경기",
+      "address": "경기 부천시 원미구 부천로 69"
+    },
+    {
+      "id": "store-7110f159d397",
+      "name": "WE주식회사 리은리천",
+      "region": "서울",
+      "address": "서울 중구 명동8나길22, 1층(충무로1가, 유화빌딩)"
+    },
+    {
+      "id": "store-78bfad859f2b",
+      "name": "WE주식회사 천앤후",
+      "region": "서울",
+      "address": "서울 중구 명동10길19, 1층,2층,3층(명동2가)"
+    },
+    {
+      "id": "store-956a4e3b7f32",
+      "name": "WE위베이프 직영2호점",
+      "region": "서울",
+      "address": "서울 중구 명동8길 8-10, 1층 105호(명동2가)"
+    },
+    {
+      "id": "store-3b29f283ea00",
+      "name": "WE베이프미 전자담배 정관점",
+      "region": "부산",
+      "address": "부산 기장군 정관읍 정관중앙로 45"
+    },
+    {
+      "id": "store-55858b82a555",
+      "name": "WE베이프미 전자담배 연산점",
+      "region": "부산",
+      "address": "부산 연제구 고분로13번길 25"
+    },
+    {
+      "id": "store-ef174a6aebd9",
+      "name": "WE베이프미 전자담배 부산시청점",
+      "region": "부산",
+      "address": "부산 연제구 거제천로 93 2층"
+    },
+    {
+      "id": "store-c8256652f94e",
+      "name": "WE해운대전자담배 베이프미 장산역점",
+      "region": "부산",
+      "address": "부산 해운대구 양운로41번길 11"
+    },
+    {
+      "id": "store-7ce51f0ac01d",
+      "name": "WE베이프미 전자담배 온천장점",
+      "region": "부산",
+      "address": "부산 금정구 중앙대로1531번길 10 1층"
+    },
+    {
+      "id": "store-ca7df1772c3e",
+      "name": "WE위베이프산곡점",
+      "region": "인천",
+      "address": "인천 부평구 산곡동 51-3"
+    },
+    {
+      "id": "store-5dd2dd78825a",
+      "name": "WE베이퍼하우스 고양원흥점",
+      "region": "경기",
+      "address": "경기 고양시 덕양구 권율대로 741-24 1층 104호"
+    },
+    {
+      "id": "store-4ed16a41c31f",
+      "name": "WE(주)미르샘공유/3호점(호남대점)",
+      "region": "광주",
+      "address": "광주 광산구 선운로2, 3호"
+    },
+    {
+      "id": "store-269237fdf58d",
+      "name": "WE베이프마스터 서면2호점",
+      "region": "부산",
+      "address": "부산 부산진구 중앙대로 692번길 42, 1층"
+    },
+    {
+      "id": "store-71222add3847",
+      "name": "WE키츠베이프",
+      "region": "경기",
+      "address": "경기 고양시 덕양구 향동로 217 1층 A145호"
+    },
+    {
+      "id": "store-e6fbd04aaa3d",
+      "name": "WE롤로토바코 중방점",
+      "region": "경북",
+      "address": "경상북도 경산시 중앙로17길 5"
+    },
+    {
+      "id": "store-08e041d01e64",
+      "name": "WE위베이프속초중앙시장점",
+      "region": "강원",
+      "address": "강원 속초시 중앙로121번길 28 센텀마크 1층 115호"
+    },
+    {
+      "id": "store-d5947caa26de",
+      "name": "WE신림역전자담배",
+      "region": "서울",
+      "address": "서울 관악구 신림로 339 1층"
+    },
+    {
+      "id": "store-b56bafb2cf72",
+      "name": "WE위베이프 중앙당곡점",
+      "region": "서울",
+      "address": "서울 관악구 보라매로 9 1층"
+    },
+    {
+      "id": "store-c4a87f296277",
+      "name": "WE스모크 서울대입구역점",
+      "region": "서울",
+      "address": "서울 관악구 관악로 211 봉천중앙시장 1층 8호"
+    },
+    {
+      "id": "store-30b08506c653",
+      "name": "WE스누스맨창원지사",
+      "region": "경남",
+      "address": "경남 창원시 성산구 단정로 14 쌍둥이빌딩 1층"
+    },
+    {
+      "id": "store-368f5d9a0a85",
+      "name": "WE주)베이프코리아/문화점",
+      "region": "제주",
+      "address": "제주시 삼무로 52 1층"
+    },
+    {
+      "id": "store-0ac0e05e9a32",
+      "name": "WE위베이프 쌍촌기아점",
+      "region": "광주",
+      "address": "광주 서구 쌍촌동 241-5"
+    },
+    {
+      "id": "store-f66e766bbdea",
+      "name": "WE네모난",
+      "region": "서울",
+      "address": "서울 광진구 아차산로 220 103호"
+    },
+    {
+      "id": "store-a2be3cfda441",
+      "name": "WE위베이프전저담배자양점",
+      "region": "서울",
+      "address": "서울 광진구 뚝섬로 27길 54 1층"
+    },
+    {
+      "id": "store-6e8742240c71",
+      "name": "WE전담어때",
+      "region": "서울",
+      "address": "서울 영등포구 당산로 161 층"
+    },
+    {
+      "id": "store-dfea3b182ea6",
+      "name": "WE위베이프 전자담배 부산진역점",
+      "region": "부산",
+      "address": "부산 동구 중앙대로 357 302동 105호"
+    },
+    {
+      "id": "store-9452d9bec604",
+      "name": "WE베이프247은평/역말점",
+      "region": "서울",
+      "address": "서울 은평구 연서로 23-1, 1층"
+    },
+    {
+      "id": "store-65cf0352929b",
+      "name": "WE데일리96전자담배",
+      "region": "경기",
+      "address": "경기 김포시 봉화로 156 1층"
+    },
+    {
+      "id": "store-0b137d99d88b",
+      "name": "WE위베이프 전자담배 용인어정역점",
+      "region": "경기",
+      "address": "경기 용인시 기흥구 언동로 216 나동"
+    },
+    {
+      "id": "store-3185dfe33bb7",
+      "name": "WE베이프박스",
+      "region": "경기",
+      "address": "경기 안산시 상록구 샘골로190"
+    },
+    {
+      "id": "store-2fd8116685d0",
+      "name": "WE시가모아동두천점",
+      "region": "경기",
+      "address": "경기 동두천시 평화로 2407-1"
+    },
+    {
+      "id": "store-1310eeefd5bf",
+      "name": "WE운수대통 1등로또",
+      "region": "대구",
+      "address": "대구 중구 대봉로 212 (대봉동)"
+    },
+    {
+      "id": "store-0320128b46a6",
+      "name": "WE분당서현젠틀전자담배(씨앤씨)",
+      "region": "경기",
+      "address": "경기 성남시 분당구 분당로53번길 10 동호플라자 2층"
+    },
+    {
+      "id": "store-0e0094384f83",
+      "name": "WE강북/종로점",
+      "region": "서울",
+      "address": "서울 종로구 돈화문로 11길 41 1층"
+    },
+    {
+      "id": "store-c68c9c363884",
+      "name": "WE위베이프 전자담배 원흥역점",
+      "region": "경기",
+      "address": "경기 고양시 덕양구 원흥4로 9 1층 101호"
+    },
+    {
+      "id": "store-e121497a6e96",
+      "name": "WE목동전자담배",
+      "region": "서울",
+      "address": "서울 양천구 목동중앙본로 122 1층"
+    },
+    {
+      "id": "store-ff096a3be067",
+      "name": "WE혁신전자담배",
+      "region": "충북",
+      "address": "충북 음성군 맹동면 원중로 1416 1층 101호"
+    },
+    {
+      "id": "store-8986fa4a9d95",
+      "name": "WE전주전자담배",
+      "region": "전북",
+      "address": "전북 전주시 덕진구 석소로 74 1층"
+    },
+    {
+      "id": "store-fe149fc1329b",
+      "name": "WE배곧B.Vape",
+      "region": "경기",
+      "address": "경기 시흥시 서울대학로 59-20 1층 119호"
+    },
+    {
+      "id": "store-d106f38968de",
+      "name": "WE치타 전자담배 식사점",
+      "region": "경기",
+      "address": "경기 고양시 일산동구 위시티로 25 1층"
+    },
+    {
+      "id": "store-b61b932c64e7",
+      "name": "WE마켓모아모아 삼양점",
+      "region": "서울",
+      "address": "서울 강북구 삼양로 227 1층"
+    },
+    {
+      "id": "store-6362ea9c06b1",
+      "name": "WE전자담배랩",
+      "region": "서울",
+      "address": "서울 용산구 한강대로 11길 30, 101호"
+    },
+    {
+      "id": "store-402f5a0bacb6",
+      "name": "WE칠곡전자담배",
+      "region": "대구",
+      "address": "대구광역시 북구 태전로 39"
+    },
+    {
+      "id": "store-b55e9f2561c8",
+      "name": "WE하늬바람",
+      "region": "경기",
+      "address": "경기 양주시 평화로 1552-19, 1층 1호"
+    },
+    {
+      "id": "store-e61bb1ac42e4",
+      "name": "WE경산전자담배멀티샵",
+      "region": "경북",
+      "address": "경상북도 경산시 대학로61길 10 1층"
+    },
+    {
+      "id": "store-64563d4131a0",
+      "name": "WE멀티황금동",
+      "region": "대구",
+      "address": "대구 수성구 희망로 165 1층"
+    },
+    {
+      "id": "store-f7443cb31510",
+      "name": "WE버터베이프 전자담배",
+      "region": "부산",
+      "address": "부산 부산진구 동평로 412 1층 102호"
+    },
+    {
+      "id": "store-816671afc1fb",
+      "name": "WE안산전자담배단원멀티샵",
+      "region": "경기",
+      "address": "경기 안산시 단원구 석수로 51"
+    },
+    {
+      "id": "store-fed28ebdcdc3",
+      "name": "WE증기기관 서초교대",
+      "region": "서울",
+      "address": "서울 서초구 서초중앙로 24길5 맨투맨빌딩 1층"
+    },
+    {
+      "id": "store-84872350c842",
+      "name": "WE증기기관을지로",
+      "region": "서울",
+      "address": "서울 중구 을지로88 을지스타몰 1-5호"
+    },
+    {
+      "id": "store-e274c150b3e2",
+      "name": "WE위베이프전자담배 화순점",
+      "region": "광주",
+      "address": "광주 화순군 화순읍 칠충로 141-7 힐스테이트 화순 123B호"
+    },
+    {
+      "id": "store-eacaacd1f7c7",
+      "name": "WE베이퍼락스 남양산점",
+      "region": "경남",
+      "address": "경남 양산시 물금읍 범어로 102 라온센트럴 상가, 105호"
+    },
+    {
+      "id": "store-d02a1e6ada6d",
+      "name": "WE엘레비전자담배",
+      "region": "경남",
+      "address": "경남 창원시 의창구 명지로93번길 1 1층"
+    },
+    {
+      "id": "store-47642205eac3",
+      "name": "WE남원전자담배",
+      "region": "전북",
+      "address": "전북 남원시 시청로 70"
+    },
+    {
+      "id": "store-09ff6ef2a671",
+      "name": "WE월드베이프한양대",
+      "region": "서울",
+      "address": "서울 성동구 마조로 22 1층"
+    },
+    {
+      "id": "store-2ff3da70cd7d",
+      "name": "WE베이프통영",
+      "region": "경남",
+      "address": "경남 통영시 광도면 죽림1로79"
+    },
+    {
+      "id": "store-79709bf63da9",
+      "name": "WE졸리베이프 계명대점",
+      "region": "대구",
+      "address": "대구광역시 달서구 서당로3길 62"
+    }
+  ]
+}
